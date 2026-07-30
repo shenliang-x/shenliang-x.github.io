@@ -6,7 +6,7 @@ Welcome to Shen Liang's Portfolio — research in human mobility, urban informat
 
 # 🤗
 
-Shen Liang is a PhD student at [Mobility Science Lab](https://mobility-science-lab.com/), The Hong Kong Polytechnic University.
+Shen Liang (梁燊) is a PhD student at [Mobility Science Lab](https://mobility-science-lab.com/), The Hong Kong Polytechnic University.
 
 This portfolio showcases his recent works, curated collections, and research promotion.
 
