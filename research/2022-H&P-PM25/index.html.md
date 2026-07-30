@@ -32,7 +32,7 @@ PM2.5 pollution imposes substantial health risks on urban residents. Previous st
 
 ## Citation
 
-`Li, Q., Liang, S., Xu, Y., Liu, L., & Zhou, S. (2022). Assessing personal travel exposure to on-road pm2.5 using cellphone positioning data and mobile sensors. *Health & Place*, *75*, 102803. [https://doi.org/10.1016/j.healthplace.2022.102803](https://doi.org/10.1016/j.healthplace.2022.102803)`
+`Li, Q., Liang, S., Xu, Y., Liu, L., & Zhou, S. (2022). Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors. *Health & Place*, *75*, 102803. [https://doi.org/10.1016/j.healthplace.2022.102803](https://doi.org/10.1016/j.healthplace.2022.102803)`
 
 ## Quicksnap
 
