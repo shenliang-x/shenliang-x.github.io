@@ -1,0 +1,96 @@
+# Shen Liang's Portfolio
+
+> Shen Liang is a PhD student at The Hong Kong Polytechnic University, researching human mobility, geospatial AI, and urban informatics.
+
+This file is a compact, machine-readable context bundle for LLM agents. It is generated from the same structured data that powers the human-facing website.
+
+## Research
+
+### Predicting short-term urban bike sharing demand in a coupled continuous and network space
+
+- URL: https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/
+- Authors: S. Liang, Y. Xu, G. Li, X. Zhang, Q. Li
+- Venue: Travel Behaviour and Society, 2026
+- DOI: 10.1016/j.tbs.2025.101152
+- PDF: https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf
+
+To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to "look around" neighborhoods and "explore along the road" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.
+
+Abstract: Bike sharing systems support sustainable urban development, with accurate demand prediction being essential for efficient operations. Previous studies have primarily modeled spatial dependency of bike sharing demand in Euclidean space or among bike stations, but often overlooked topological dependency of demand shaped by urban transportation networks. Metro and cycling networks could influence bike sharing usage through their functional connections with bike sharing systems. To address this gap, this study proposes GeoTopo-Net, a novel deep learning framework to improve short-term demand forecast for urban bike sharing systems. Different from existing solutions, GeoTopo-Net jointly models dependencies of travel demand in both continuous and network spaces. The model utilizes convolutional neural networks (CNNs) to capture spatial dependency between urban areas and their surroundings, while integrating graph convolutional networks (GCNs) to model the topological dependency introduced by urban transportation networks. Our evaluation across five global cities shows that GeoTopo-Net significantly reduces prediction errors, by up to 8.9% in RMSE, 6.8% in MAE, and 5.9% in MAPE. Incorporating dependencies from metro networks produces notable improvements in high-demand areas and those near the metro stations. These findings highlight the importance of incorporating urban transportation network structures in bike sharing demand forecast. The GeoTopo-Net architecture can also be adapted to improve short-term forecast for different types of travel demand (e.g., ride-hailing; electric vehicle charging demand) that involve complex interdependencies in continuous and network spaces.
+
+Figures:
+- While the metro network is generally more impactful, combining both is optimal for robust results: https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png
+- (A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure: https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/framework-GeoTopoNet.png
+- GeoTopo-Net notably improves prediction accuracy along metro networks and their surrounding areas (red cells): https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig5.png
+- Accuracy improvements in grid cells by demand level (blue) and metro station proximity (red). Higher-demand areas and those closer to metro stations experience greater improvements: https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig6.png
+
+### Improving next location prediction with inferred activity semantics in mobile phone data
+
+- URL: https://nehsgnail.github.io/research/2025-IJDE-LPA/
+- Authors: S. Liang, Q. Li, L. Zhuo, D. Zou, Y. Xu, S. Zhou
+- Venue: International Journal of Digital Earth, 2025
+- DOI: 10.1080/17538947.2025.2552880
+- PDF: https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf
+- Project: https://github.com/nehSgnaiL/LPA
+
+To predict where someone is headed, do we need to know why? This study shows that giving AI the "why" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.
+
+Abstract: Accurately predicting the next location of mobile phone users is essential for various applications such as personalized location-based services and mobile marketing. While previous models have relied primarily on spatiotemporal sequences (e.g., location and time information), recent research has begun to explore the integration of activity semantics, which provides contextual insights into the motivations behind mobility. However, the use of activity semantics remains underexplored in large-scale mobile phone data, where such semantics are not explicitly recorded. This study proposes a semantics-enhanced prediction framework that infers and integrates user activities into a long short-term memory (LSTM) architecture with attention mechanisms and multimodal embeddings. Specifically, we infer six types of activities: home and work using rule-based heuristics and four non-mandatory activities (shopping, leisure, eat out, and personal affairs) using a supervised machine learning approach. These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model. The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization. Notably, users with more stable daily activity patterns benefit most significantly from the integration of activity semantics. This work highlights the potential of integrating inferred human activity types to enhance mobility prediction in data-rich but semantically sparse environments.
+
+Figures:
+- Diverse but uncertain inferred activities still enhance predictions: https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/improvement-by-activity.jpg
+- Research framework: https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/research-framework.png
+
+### Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors
+
+- URL: https://nehsgnail.github.io/research/2022-H&P-PM25/
+- Authors: Q. Li, S. Liang, Y. Xu, L. Liu, S. Zhou
+- Venue: Health & Place, 2022
+- DOI: 10.1016/j.healthplace.2022.102803
+- PDF: https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf
+
+Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.
+
+Abstract: PM2.5 pollution imposes substantial health risks on urban residents. Previous studies mainly focused on assessing peoples' exposures at static locations, such as homes or workplaces. There has been a scarcity of research that quantifies the dynamic PM2.5 exposures of people when they travel in cities. To address this gap, we use cellphone positioning data and PM2.5 concentration data collected from smart sensors along roads in Guangzhou, China, to assess personal travel exposure to on-road PM2.5. First, we extract the trips of cellphone users from their trajectories and use the shortest path algorithm to calculate their travel routes on the road network. Second, the travel exposure of each user is estimated by associating their movement patterns with PM2.5 concentrations on roads. The result shows that most users’ average travel exposures per hour fall within the range of 20 ug/m3 to 75 ug/m3. Travel exposure varies across users, and 54.0% of users experience low travel exposure throughout the day, 25.5% of users experience high travel exposure in the evening, and 20.5% of users experience high travel exposure in the afternoon. Furthermore, the impacts of on-road PM2.5 on urban populations are uneven across roads. More attention should be given to roads with high PM2.5 concentrations and traffic flows in each period, such as Huan Shi Middle Road in the morning, Inner Ring Road in the afternoon, and Xinjiao Middle Road in the evening. The findings in this study can contribute to a more in-depth understanding of the relationship between air pollution and the travel activities of urban populations.
+
+Figures:
+- Daily travel patterns of the uncovered types of users: https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png
+- Daily exposure curve of the three types of cellphone users: https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternCurve.jpg
+- Spatial distribution of on-road PM2.5 concentrations during three periods: https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/pm25.png
+- Four types of road (PM2.5 conc. – traffic volume): https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternHigh.png
+
+## Projects
+
+### Awesome Scientific Figure
+
+- Repository: https://github.com/nehSgnaiL/awesome-scientific-figure
+- Tags: Paper Reading, Academic Image, Color Scheme
+
+A curated gallery of great scientific visualization practices in research papers
+
+### Smart Paper Recommendation
+
+- Repository: https://github.com/nehSgnaiL/paper-daily-feed
+- Tags: Smart Recommendation, Knowledge Retrieve, Be on Top of Things, Embedding Similarity, Vibe Coding
+
+The AI era's paper boom is exhausting to track. Stop endlessly chasing new papers, and let paper-daily-feed curate daily summaries personalized for your vibe!
+
+### Awesome Academic Phrase
+
+- Repository: https://github.com/nehSgnaiL/awesome-academic-phrase
+- Tags: Paper Reading, Academic Writing, Vocabulary Learning, Scientific Phrase
+
+A curated compilation of effective academic phrases in research papers
+
+### CLI Warmup Tool
+
+- Repository: https://github.com/nehSgnaiL/ai-daily-warmup
+- Tags: Productivity, AI Agents, CLI Tools, Vibe Coding
+
+We've all been there: you're deep in the zone, making massive progress, and suddenly—bam. You hit your AI's usage cap. Use CLI Warmup Tool to work without missing a beat!
+
+## Machine-readable endpoints
+
+- Research index: https://nehsgnail.github.io/research.json
+- Project index: https://nehsgnail.github.io/projects.json
+- Agent manifest: https://nehsgnail.github.io/agent/manifest.json

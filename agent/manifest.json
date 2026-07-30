@@ -1,0 +1,33 @@
+{
+  "name": "Shen Liang's Portfolio",
+  "description": "Shen Liang is a PhD student at The Hong Kong Polytechnic University, researching human mobility, geospatial AI, and urban informatics.",
+  "url": "https://nehsgnail.github.io",
+  "owner": {
+    "type": "Person",
+    "name": "Shen Liang",
+    "alternateName": "梁燊",
+    "affiliation": "The Hong Kong Polytechnic University",
+    "sameAs": [
+      "https://orcid.org/0000-0002-2246-8427",
+      "https://scholar.google.com/citations?user=d75dCksAAAAJ",
+      "https://www.researchgate.net/profile/Shen-Liang-11",
+      "https://github.com/nehSgnaiL",
+      "https://www.linkedin.com/in/shen-liang-58754b9b"
+    ]
+  },
+  "contentFocus": [
+    "human mobility",
+    "geospatial AI",
+    "urban informatics",
+    "travel behavior",
+    "open-source research tools"
+  ],
+  "endpoints": {
+    "llmsTxt": "https://nehsgnail.github.io/llms.txt",
+    "llmsFull": "https://nehsgnail.github.io/llms-full.txt",
+    "sitemap": "https://nehsgnail.github.io/sitemap-index.xml",
+    "researchIndex": "https://nehsgnail.github.io/research.json",
+    "projectIndex": "https://nehsgnail.github.io/projects.json"
+  },
+  "guidance": "Use the JSON indexes for structured retrieval and the Markdown/llms-full endpoints for compact LLM context. Prefer canonical research URLs when citing individual publications."
+}

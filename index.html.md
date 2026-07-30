@@ -1,0 +1,15 @@
+# Shen Liang | PhD Student at PolyU
+
+> Shen Liang, a phd student at PolyU studying human mobility, geospatial AI, and urban informatics
+
+Welcome to Shen Liang's Portfolio — research in human mobility, urban informatics, and AI-driven geospatial solutions.
+
+# 🤗
+
+Shen Liang is a phd student at [Mobility Science Lab](https://mobility-science-lab.com/), The Hong Kong Polytechnic University.
+
+This portfolio showcases his recent works, curated collections, and research promotion.
+
+Human MobilityGeospatial AIUrban Informatics
+
+[View Research](/research)[View CV](/cv)
