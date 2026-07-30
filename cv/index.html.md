@@ -1,6 +1,6 @@
 # CV - Shen Liang | PhD Student at PolyU
 
-> Curriculum Vitae of Shen Liang, a phd student studying human mobility, geospatial AI, and urban informatics at PolyU
+> Curriculum Vitae of Shen Liang, a PhD student studying human mobility, geospatial AI, and urban informatics at PolyU
 
 # Curriculum Vitae
 

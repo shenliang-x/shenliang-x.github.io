@@ -6,9 +6,9 @@ Use this file as the concise discovery layer for LLM agents. The HTML pages are 
 
 ## Pages
 
-- [Home](https://nehsgnail.github.io/index.html.md): Shen Liang, a phd student at PolyU studying human mobility, geospatial AI, and urban informatics
+- [Home](https://nehsgnail.github.io/index.html.md): Shen Liang, a PhD student at PolyU studying human mobility, geospatial AI, and urban informatics
 - [Blog](https://nehsgnail.github.io/blog/index.html.md)
-- [CV](https://nehsgnail.github.io/cv/index.html.md): Curriculum Vitae of Shen Liang, a phd student studying human mobility, geospatial AI, and urban informatics at PolyU
+- [CV](https://nehsgnail.github.io/cv/index.html.md): Curriculum Vitae of Shen Liang, a PhD student studying human mobility, geospatial AI, and urban informatics at PolyU
 - [Project](https://nehsgnail.github.io/project/index.html.md): Open source projects and tools by Shen Liang for human mobility, geospatial AI, and urban informatics research
 - [Research](https://nehsgnail.github.io/research/index.html.md): Research works by Shen Liang on human mobility, geospatial AI, and urban informatics
 
