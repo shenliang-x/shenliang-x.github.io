@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "Research publications by Shen Liang",
-  "url": "https://nehsgnail.github.io/research.json",
+  "url": "https://shenliang-x.github.io/research.json",
   "itemListElement": [
     {
       "@type": "ListItem",

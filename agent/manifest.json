@@ -2,6 +2,12 @@
   "name": "Shen Liang's Portfolio",
   "description": "Shen Liang is a PhD student at The Hong Kong Polytechnic University, researching human mobility, geospatial AI, and urban informatics.",
   "url": "https://nehsgnail.github.io",
+  "canonicalUrl": "https://nehsgnail.github.io",
+  "deploymentUrl": "https://shenliang-x.github.io",
+  "trustedSites": [
+    "https://nehsgnail.github.io",
+    "https://shenliang-x.github.io"
+  ],
   "owner": {
     "type": "Person",
     "name": "Shen Liang",
@@ -23,11 +29,11 @@
     "open-source research tools"
   ],
   "endpoints": {
-    "llmsTxt": "https://nehsgnail.github.io/llms.txt",
-    "llmsFull": "https://nehsgnail.github.io/llms-full.txt",
-    "sitemap": "https://nehsgnail.github.io/sitemap-index.xml",
-    "researchIndex": "https://nehsgnail.github.io/research.json",
-    "projectIndex": "https://nehsgnail.github.io/projects.json"
+    "llmsTxt": "https://shenliang-x.github.io/llms.txt",
+    "llmsFull": "https://shenliang-x.github.io/llms-full.txt",
+    "sitemap": "https://shenliang-x.github.io/sitemap-index.xml",
+    "researchIndex": "https://shenliang-x.github.io/research.json",
+    "projectIndex": "https://shenliang-x.github.io/projects.json"
   },
   "guidance": "Use the JSON indexes for structured retrieval and the Markdown/llms-full endpoints for compact LLM context. Prefer canonical research URLs when citing individual publications."
 }

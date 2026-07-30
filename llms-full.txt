@@ -91,6 +91,6 @@ We've all been there: you're deep in the zone, making massive progress, and sudd
 
 ## Machine-readable endpoints
 
-- Research index: https://nehsgnail.github.io/research.json
-- Project index: https://nehsgnail.github.io/projects.json
-- Agent manifest: https://nehsgnail.github.io/agent/manifest.json
+- Research index: https://shenliang-x.github.io/research.json
+- Project index: https://shenliang-x.github.io/projects.json
+- Agent manifest: https://shenliang-x.github.io/agent/manifest.json

@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "Open source projects by Shen Liang",
-  "url": "https://nehsgnail.github.io/projects.json",
+  "url": "https://shenliang-x.github.io/projects.json",
   "itemListElement": [
     {
       "@type": "ListItem",
