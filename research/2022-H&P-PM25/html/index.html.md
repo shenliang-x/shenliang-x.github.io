@@ -2,7 +2,7 @@
 
 > Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.
 
-[← Back to overview](/research/2022-H&P-PM25/)
+[← Back to Overview](/research/2022-H&P-PM25/)
 
 [PDF](https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf)[Official publication](https://doi.org/10.1016/j.healthplace.2022.102803)
 

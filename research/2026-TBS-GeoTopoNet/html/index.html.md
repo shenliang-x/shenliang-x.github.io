@@ -2,7 +2,7 @@
 
 > To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to "look around" neighborhoods and "explore along the road" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.
 
-[← Back to overview](/research/2026-TBS-GeoTopoNet/)
+[← Back to Overview](/research/2026-TBS-GeoTopoNet/)
 
 [PDF](https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf)[Official publication](https://doi.org/10.1016/j.tbs.2025.101152)
 

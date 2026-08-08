@@ -2,7 +2,7 @@
 
 > To predict where someone is headed, do we need to know why? This study shows that giving AI the "why" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.
 
-[← Back to overview](/research/2025-IJDE-LPA/)
+[← Back to Overview](/research/2025-IJDE-LPA/)
 
 [PDF](https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf)[Official publication](https://doi.org/10.1080/17538947.2025.2552880)
 
