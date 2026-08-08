@@ -34,7 +34,8 @@
     {
       "name": "Suhong Zhou",
       "citationName": "S. Zhou",
-      "orcid": "https://orcid.org/0000-0002-1900-0671"
+      "orcid": "https://orcid.org/0000-0002-1900-0671",
+      "isCorresponding": true
     }
   ],
   "venue": "Health & Place",
@@ -73,7 +74,9 @@
     "landingPage": "https://nehsgnail.github.io/research/2022-H&P-PM25/",
     "doi": "https://doi.org/10.1016/j.healthplace.2022.102803",
     "pdf": "https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf",
-    "project": null
+    "project": null,
+    "htmlFullText": "https://nehsgnail.github.io/research/2022-H&P-PM25/html/",
+    "markdownFullText": "https://nehsgnail.github.io/research/2022-H&P-PM25/fulltext.md"
   },
   "image": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
   "keyTakeaway": "Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.",
@@ -102,5 +105,11 @@
   "citation": {
     "bibtex": "https://nehsgnail.github.io/research/2022-H&P-PM25/citation.bib",
     "key": "li2022pm25"
+  },
+  "fullText": {
+    "version": "accepted-manuscript",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "rightsNotice": null
   }
 }

@@ -88,6 +88,9 @@
           "propertyID": "DOI",
           "value": "10.1016/j.tbs.2025.101152"
         },
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "version": "accepted-manuscript",
         "encoding": [
           {
             "@type": "MediaObject",
@@ -98,6 +101,16 @@
             "@type": "MediaObject",
             "encodingFormat": "application/x-bibtex",
             "contentUrl": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/citation.bib"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/html",
+            "contentUrl": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/html/"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/fulltext.md"
           }
         ],
         "associatedMedia": [
@@ -299,6 +312,9 @@
           "propertyID": "DOI",
           "value": "10.1080/17538947.2025.2552880"
         },
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "version": "accepted-manuscript",
         "encoding": [
           {
             "@type": "MediaObject",
@@ -309,6 +325,16 @@
             "@type": "MediaObject",
             "encodingFormat": "application/x-bibtex",
             "contentUrl": "https://nehsgnail.github.io/research/2025-IJDE-LPA/citation.bib"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/html",
+            "contentUrl": "https://nehsgnail.github.io/research/2025-IJDE-LPA/html/"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://nehsgnail.github.io/research/2025-IJDE-LPA/fulltext.md"
           }
         ],
         "associatedMedia": [
@@ -491,6 +517,9 @@
           "propertyID": "DOI",
           "value": "10.1016/j.healthplace.2022.102803"
         },
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "version": "accepted-manuscript",
         "encoding": [
           {
             "@type": "MediaObject",
@@ -501,6 +530,16 @@
             "@type": "MediaObject",
             "encodingFormat": "application/x-bibtex",
             "contentUrl": "https://nehsgnail.github.io/research/2022-H&P-PM25/citation.bib"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/html",
+            "contentUrl": "https://nehsgnail.github.io/research/2022-H&P-PM25/html/"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://nehsgnail.github.io/research/2022-H&P-PM25/fulltext.md"
           }
         ],
         "associatedMedia": [

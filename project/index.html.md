@@ -18,7 +18,7 @@ Paper ReadingAcademic ImageColor Scheme
 
 The AI era's paper boom is exhausting to track. Stop endlessly chasing new papers, and let paper-daily-feed curate daily summaries personalized for your vibe!
 
-Smart RecommendationKnowledge RetrieveBe on Top of ThingsEmbedding SimilarityVibe Coding
+Smart RecommendationKnowledge RetrieveBe on Top of ThingsEmbedding Similarity
 
 [Repository](https://github.com/nehSgnaiL/paper-daily-feed)
 

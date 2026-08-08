@@ -21,7 +21,8 @@
     },
     {
       "name": "Qiuping Li",
-      "citationName": "Q. Li"
+      "citationName": "Q. Li",
+      "isCorresponding": true
     },
     {
       "name": "Li Zhuo",
@@ -76,7 +77,9 @@
     "landingPage": "https://nehsgnail.github.io/research/2025-IJDE-LPA/",
     "doi": "https://doi.org/10.1080/17538947.2025.2552880",
     "pdf": "https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf",
-    "project": "https://github.com/nehSgnaiL/LPA"
+    "project": "https://github.com/nehSgnaiL/LPA",
+    "htmlFullText": "https://nehsgnail.github.io/research/2025-IJDE-LPA/html/",
+    "markdownFullText": "https://nehsgnail.github.io/research/2025-IJDE-LPA/fulltext.md"
   },
   "image": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/tjde_a_2552880_f0003_oc.jpg",
   "keyTakeaway": "To predict where someone is headed, do we need to know why? This study shows that giving AI the \"why\" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.",
@@ -95,5 +98,11 @@
   "citation": {
     "bibtex": "https://nehsgnail.github.io/research/2025-IJDE-LPA/citation.bib",
     "key": "liang2025lpa"
+  },
+  "fullText": {
+    "version": "accepted-manuscript",
+    "license": "CC BY-NC 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "rightsNotice": null
   }
 }

@@ -10,7 +10,7 @@
 
 **Published:** International Journal of Digital Earth, 2025, Vol. 18, Issue 2, pp. 2552880
 
-[View Full Paper](https://doi.org/10.1080/17538947.2025.2552880)[PDF](https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf)[View Project](https://github.com/nehSgnaiL/LPA)
+[Read online](/research/2025-IJDE-LPA/html/)[PDF](https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf)[Official publication](https://doi.org/10.1080/17538947.2025.2552880)[View Project](https://github.com/nehSgnaiL/LPA)
 
 ## Takeaway
 

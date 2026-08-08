@@ -10,7 +10,7 @@
 
 **Published:** Health & Place, 2022, Vol. 75, pp. 102803
 
-[View Full Paper](https://doi.org/10.1016/j.healthplace.2022.102803)[PDF](https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf)
+[Read online](/research/2022-H&P-PM25/html/)[PDF](https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf)[Official publication](https://doi.org/10.1016/j.healthplace.2022.102803)
 
 ## Takeaway
 

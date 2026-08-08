@@ -10,7 +10,7 @@
 
 **Published:** Travel Behaviour and Society, 2026, Vol. 42, pp. 101152
 
-[View Full Paper](https://doi.org/10.1016/j.tbs.2025.101152)[PDF](https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf)
+[Read online](/research/2026-TBS-GeoTopoNet/html/)[PDF](https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf)[Official publication](https://doi.org/10.1016/j.tbs.2025.101152)
 
 ## Takeaway
 
