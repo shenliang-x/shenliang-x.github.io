@@ -15,8 +15,10 @@
         "author": [
           {
             "@type": "Person",
+            "@id": "https://nehsgnail.github.io/#person",
             "name": "Shen Liang",
             "alternateName": "S. Liang",
+            "url": "https://nehsgnail.github.io",
             "sameAs": "https://orcid.org/0000-0002-2246-8427"
           },
           {
@@ -230,8 +232,10 @@
         "author": [
           {
             "@type": "Person",
+            "@id": "https://nehsgnail.github.io/#person",
             "name": "Shen Liang",
             "alternateName": "S. Liang",
+            "url": "https://nehsgnail.github.io",
             "sameAs": "https://orcid.org/0000-0002-2246-8427"
           },
           {
@@ -442,14 +446,18 @@
         "author": [
           {
             "@type": "Person",
+            "@id": "https://orcid.org/0000-0001-9562-0138",
             "name": "Qiuping Li",
             "alternateName": "Q. Li",
+            "url": "https://orcid.org/0000-0001-9562-0138",
             "sameAs": "https://orcid.org/0000-0001-9562-0138"
           },
           {
             "@type": "Person",
+            "@id": "https://nehsgnail.github.io/#person",
             "name": "Shen Liang",
             "alternateName": "S. Liang",
+            "url": "https://nehsgnail.github.io",
             "sameAs": "https://orcid.org/0000-0002-2246-8427"
           },
           {
@@ -464,8 +472,10 @@
           },
           {
             "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-1900-0671",
             "name": "Suhong Zhou",
             "alternateName": "S. Zhou",
+            "url": "https://orcid.org/0000-0002-1900-0671",
             "sameAs": "https://orcid.org/0000-0002-1900-0671"
           }
         ],

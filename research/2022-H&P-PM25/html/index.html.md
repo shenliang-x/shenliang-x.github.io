@@ -1,6 +1,6 @@
 # Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors - HTML Full Text
 
-> PM2.5 pollution imposes substantial health risks on urban residents. Previous studies mainly focused on assessing peoples' exposures at static locations, such as homes or workplaces. There has been a scarcity of research that quantifies the dynamic PM2.5 exposures of people when they travel in cities. To address this gap, we use cellphone positioning data and PM2.5 concentration data collected from smart sensors along roads in Guangzhou, China, to assess personal travel exposure to on-road PM2.5. First, we extract the trips of cellphone users from their trajectories and use the shortest path algorithm to calculate their travel routes on the road network. Second, the travel exposure of each user is estimated by associating their movement patterns with PM2.5 concentrations on roads. The result shows that most users’ average travel exposures per hour fall within the range of 20 ug/m3 to 75 ug/m3. Travel exposure varies across users, and 54.0% of users experience low travel exposure throughout the day, 25.5% of users experience high travel exposure in the evening, and 20.5% of users experience high travel exposure in the afternoon. Furthermore, the impacts of on-road PM2.5 on urban populations are uneven across roads. More attention should be given to roads with high PM2.5 concentrations and traffic flows in each period, such as Huan Shi Middle Road in the morning, Inner Ring Road in the afternoon, and Xinjiao Middle Road in the evening. The findings in this study can contribute to a more in-depth understanding of the relationship between air pollution and the travel activities of urban populations.
+> Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.
 
 [← Back to overview](/research/2022-H&P-PM25/)
 
@@ -15,6 +15,26 @@ Qiuping Li, Shen Liang, Yang Xu, Lin Liu, Suhong Zhou\*
 3.  Official publication at [https://doi.org/10.1016/j.healthplace.2022.102803](https://doi.org/10.1016/j.healthplace.2022.102803).
 
 ## 2022-H&P-PM25
+
+1.  [Abstract](#abstract)
+2.  [1\. Introduction](#1-introduction)
+3.  [2\. Study area and data](#2-study-area-and-data)
+4.  [2.1. Study area](#21-study-area)
+5.  [2.2. Dataset](#22-dataset)
+6.  [3\. Methods](#3-methods)
+7.  [3.1. Estimating the spatial concentration of on-road PM2.5](#31-estimating-the-spatial-concentration-of-on-road-pm25)
+8.  [3.2. Trip identification and travel route simulation](#32-trip-identification-and-travel-route-simulation)
+9.  [3.3. Estimating travel exposures of cellphone users](#33-estimating-travel-exposures-of-cellphone-users)
+10.  [4\. Results](#4-results)
+11.  [4.1. Patterns and characteristics of users’ travel exposures](#41-patterns-and-characteristics-of-users-travel-exposures)
+12.  [4.2. Interpersonal variations in travel exposure](#42-interpersonal-variations-in-travel-exposure)
+13.  [4.3. Spatial heterogeneity of travel exposure at the road level](#43-spatial-heterogeneity-of-travel-exposure-at-the-road-level)
+14.  [5\. Discussion](#5-discussion)
+15.  [6\. Conclusions](#6-conclusions)
+16.  [Acknowledgements](#acknowledgements)
+17.  [References](#references)
+
+Table of contents
 
 1.  [Abstract](#abstract)
 2.  [1\. Introduction](#1-introduction)

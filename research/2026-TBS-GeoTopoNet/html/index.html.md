@@ -1,6 +1,6 @@
 # Predicting short-term urban bike sharing demand in a coupled continuous and network space - HTML Full Text
 
-> Bike sharing systems support sustainable urban development, with accurate demand prediction being essential for efficient operations. Previous studies have primarily modeled spatial dependency of bike sharing demand in Euclidean space or among bike stations, but often overlooked topological dependency of demand shaped by urban transportation networks. Metro and cycling networks could influence bike sharing usage through their functional connections with bike sharing systems. To address this gap, this study proposes GeoTopo-Net, a novel deep learning framework to improve short-term demand forecast for urban bike sharing systems. Different from existing solutions, GeoTopo-Net jointly models dependencies of travel demand in both continuous and network spaces. The model utilizes convolutional neural networks (CNNs) to capture spatial dependency between urban areas and their surroundings, while integrating graph convolutional networks (GCNs) to model the topological dependency introduced by urban transportation networks. Our evaluation across five global cities shows that GeoTopo-Net significantly reduces prediction errors, by up to 8.9% in RMSE, 6.8% in MAE, and 5.9% in MAPE. Incorporating dependencies from metro networks produces notable improvements in high-demand areas and those near the metro stations. These findings highlight the importance of incorporating urban transportation network structures in bike sharing demand forecast. The GeoTopo-Net architecture can also be adapted to improve short-term forecast for different types of travel demand (e.g., ride-hailing; electric vehicle charging demand) that involve complex interdependencies in continuous and network spaces.
+> To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to "look around" neighborhoods and "explore along the road" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.
 
 [← Back to overview](/research/2026-TBS-GeoTopoNet/)
 
@@ -15,6 +15,31 @@ Shen Liang, Yang Xu\*, Guangyue Li, Xiaohu Zhang, Qiuping Li
 3.  Official publication at [https://doi.org/10.1016/j.tbs.2025.101152](https://doi.org/10.1016/j.tbs.2025.101152).
 
 ## 2026-TBS-GeoTopoNet
+
+1.  [Abstract](#abstract)
+2.  [1\. Introduction](#1-introduction)
+3.  [2\. Literature review](#2-literature-review)
+4.  [2.1. Predicting bike sharing demand: Models and solutions](#21-predicting-bike-sharing-demand-models-and-solutions)
+5.  [2.2. The need to predict bike sharing demand in a coupled continuous and network space](#22-the-need-to-predict-bike-sharing-demand-in-a-coupled-continuous-and-network-space)
+6.  [3\. Study area and dataset](#3-study-area-and-dataset)
+7.  [4\. Methodology](#4-methodology)
+8.  [4.1. Overall structure of GeoTopo-Net](#41-overall-structure-of-geotopo-net)
+9.  [4.2. Capturing spatial dependency in a coupled continuous and network space](#42-capturing-spatial-dependency-in-a-coupled-continuous-and-network-space)
+10.  [4.3. Modeling temporal dependency and fusing spatiotemporal features](#43-modeling-temporal-dependency-and-fusing-spatiotemporal-features)
+11.  [4.4. Training and evaluating GeoTopo-Net](#44-training-and-evaluating-geotopo-net)
+12.  [5\. Analysis results](#5-analysis-results)
+13.  [5.1. Overall performance of GeoTopo-Net](#51-overall-performance-of-geotopo-net)
+14.  [5.2. Performance improvement after integrating topological dependency in urban networks](#52-performance-improvement-after-integrating-topological-dependency-in-urban-networks)
+15.  [5.3. Spatial patterns of prediction improvements from metro network integration](#53-spatial-patterns-of-prediction-improvements-from-metro-network-integration)
+16.  [6\. Discussion and conclusion](#6-discussion-and-conclusion)
+17.  [Declaration of Generative AI and AI-assisted technologies in the writing process](#declaration-of-generative-ai-and-ai-assisted-technologies-in-the-writing-process)
+18.  [CRediT authorship contribution statement](#credit-authorship-contribution-statement)
+19.  [Declaration of competing interest](#declaration-of-competing-interest)
+20.  [Acknowledgement](#acknowledgement)
+21.  [Appendix A. Supplementary data](#appendix-a-supplementary-data)
+22.  [References](#references)
+
+Table of contents
 
 1.  [Abstract](#abstract)
 2.  [1\. Introduction](#1-introduction)

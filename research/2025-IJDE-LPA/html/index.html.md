@@ -1,6 +1,6 @@
 # Improving next location prediction with inferred activity semantics in mobile phone data - HTML Full Text
 
-> Accurately predicting the next location of mobile phone users is essential for various applications such as personalized location-based services and mobile marketing. While previous models have relied primarily on spatiotemporal sequences (e.g., location and time information), recent research has begun to explore the integration of activity semantics, which provides contextual insights into the motivations behind mobility. However, the use of activity semantics remains underexplored in large-scale mobile phone data, where such semantics are not explicitly recorded. This study proposes a semantics-enhanced prediction framework that infers and integrates user activities into a long short-term memory (LSTM) architecture with attention mechanisms and multimodal embeddings. Specifically, we infer six types of activities: home and work using rule-based heuristics and four non-mandatory activities (shopping, leisure, eat out, and personal affairs) using a supervised machine learning approach. These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model. The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization. Notably, users with more stable daily activity patterns benefit most significantly from the integration of activity semantics. This work highlights the potential of integrating inferred human activity types to enhance mobility prediction in data-rich but semantically sparse environments.
+> To predict where someone is headed, do we need to know why? This study shows that giving AI the "why" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.
 
 [← Back to overview](/research/2025-IJDE-LPA/)
 
@@ -15,6 +15,27 @@ Shen Liang, Qiuping Li\*, Li Zhuo, Dan Zou, Yang Xu, Suhong Zhou
 3.  Official publication at [https://doi.org/10.1080/17538947.2025.2552880](https://doi.org/10.1080/17538947.2025.2552880).
 
 ## 2025-IJDE-LPA
+
+1.  [Abstract](#abstract)
+2.  [1\. Introduction](#1-introduction)
+3.  [2\. Problem statement](#2-problem-statement)
+4.  [3\. Methodology](#3-methodology)
+5.  [3.1. Inferring activity semantics from mobile phone data](#31-inferring-activity-semantics-from-mobile-phone-data)
+6.  [3.2. Predicting the next location of individuals by integrating activity semantics](#32-predicting-the-next-location-of-individuals-by-integrating-activity-semantics)
+7.  [4\. Data description and experimental setup](#4-data-description-and-experimental-setup)
+8.  [4.1. Data description](#41-data-description)
+9.  [4.2. Experimental setup](#42-experimental-setup)
+10.  [5\. Experimental results](#5-experimental-results)
+11.  [5.1. Inferred activities in mobile phone data](#51-inferred-activities-in-mobile-phone-data)
+12.  [5.2. Next location prediction results and analysis](#52-next-location-prediction-results-and-analysis)
+13.  [6\. Conclusion](#6-conclusion)
+14.  [Geolocation information](#geolocation-information)
+15.  [Disclosure statement](#disclosure-statement)
+16.  [Funding](#funding)
+17.  [Data availability statement](#data-availability-statement)
+18.  [References](#references)
+
+Table of contents
 
 1.  [Abstract](#abstract)
 2.  [1\. Introduction](#1-introduction)
