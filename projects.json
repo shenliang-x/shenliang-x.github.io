@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Open source projects by Shen Liang",
+  "url": "https://shenliang-x.github.io/projects.json",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "SoftwareSourceCode",
+        "name": "Awesome Scientific Figure",
+        "description": "A curated gallery of great scientific visualization practices in research papers",
+        "codeRepository": "https://github.com/nehSgnaiL/awesome-scientific-figure",
+        "url": "https://github.com/nehSgnaiL/awesome-scientific-figure",
+        "keywords": [
+          "Paper Reading",
+          "Academic Image",
+          "Color Scheme"
+        ],
+        "creator": {
+          "@type": "Person",
+          "@id": "https://nehsgnail.github.io/#person",
+          "name": "Shen Liang",
+          "sameAs": [
+            "https://orcid.org/0000-0002-2246-8427",
+            "https://scholar.google.com/citations?user=d75dCksAAAAJ",
+            "https://www.researchgate.net/profile/Shen-Liang-11",
+            "https://github.com/nehSgnaiL",
+            "https://www.linkedin.com/in/shen-liang-58754b9b"
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "SoftwareSourceCode",
+        "name": "Smart Paper Recommendation",
+        "description": "The AI era's paper boom is exhausting to track. Stop endlessly chasing new papers, and let paper-daily-feed curate daily summaries personalized for your vibe!",
+        "codeRepository": "https://github.com/nehSgnaiL/paper-daily-feed",
+        "url": "https://github.com/nehSgnaiL/paper-daily-feed",
+        "image": "https://repository-images.githubusercontent.com/1224307147/85bfa59f-52c8-4bbe-9d3c-40fbc9797618",
+        "keywords": [
+          "Smart Recommendation",
+          "Knowledge Retrieve",
+          "Be on Top of Things",
+          "Embedding Similarity"
+        ],
+        "creator": {
+          "@type": "Person",
+          "@id": "https://nehsgnail.github.io/#person",
+          "name": "Shen Liang",
+          "sameAs": [
+            "https://orcid.org/0000-0002-2246-8427",
+            "https://scholar.google.com/citations?user=d75dCksAAAAJ",
+            "https://www.researchgate.net/profile/Shen-Liang-11",
+            "https://github.com/nehSgnaiL",
+            "https://www.linkedin.com/in/shen-liang-58754b9b"
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "SoftwareSourceCode",
+        "name": "Awesome Academic Phrase",
+        "description": "A curated compilation of effective academic phrases in research papers",
+        "codeRepository": "https://github.com/nehSgnaiL/awesome-academic-phrase",
+        "url": "https://github.com/nehSgnaiL/awesome-academic-phrase",
+        "keywords": [
+          "Paper Reading",
+          "Academic Writing",
+          "Vocabulary Learning",
+          "Scientific Phrase"
+        ],
+        "creator": {
+          "@type": "Person",
+          "@id": "https://nehsgnail.github.io/#person",
+          "name": "Shen Liang",
+          "sameAs": [
+            "https://orcid.org/0000-0002-2246-8427",
+            "https://scholar.google.com/citations?user=d75dCksAAAAJ",
+            "https://www.researchgate.net/profile/Shen-Liang-11",
+            "https://github.com/nehSgnaiL",
+            "https://www.linkedin.com/in/shen-liang-58754b9b"
+          ]
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "SoftwareSourceCode",
+        "name": "CLI Warmup Tool",
+        "description": "We've all been there: you're deep in the zone, making massive progress, and suddenly—bam. You hit your AI's usage cap. Use CLI Warmup Tool to work without missing a beat!",
+        "codeRepository": "https://github.com/nehSgnaiL/ai-daily-warmup",
+        "url": "https://github.com/nehSgnaiL/ai-daily-warmup",
+        "image": "https://repository-images.githubusercontent.com/1220689187/14e66a95-a7e4-4f34-931d-2f3f18245680",
+        "keywords": [
+          "Productivity",
+          "AI Agents",
+          "CLI Tools",
+          "Vibe Coding"
+        ],
+        "creator": {
+          "@type": "Person",
+          "@id": "https://nehsgnail.github.io/#person",
+          "name": "Shen Liang",
+          "sameAs": [
+            "https://orcid.org/0000-0002-2246-8427",
+            "https://scholar.google.com/citations?user=d75dCksAAAAJ",
+            "https://www.researchgate.net/profile/Shen-Liang-11",
+            "https://github.com/nehSgnaiL",
+            "https://www.linkedin.com/in/shen-liang-58754b9b"
+          ]
+        }
+      }
+    }
+  ]
+}

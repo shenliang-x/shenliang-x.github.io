@@ -1,0 +1,116 @@
+{
+  "type": "ScholarlyArticle",
+  "slug": "2022-H&P-PM25",
+  "title": "Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors",
+  "url": "https://nehsgnail.github.io/research/2022-H&P-PM25/",
+  "summary": "Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.",
+  "abstract": "PM2.5 pollution imposes substantial health risks on urban residents. Previous studies mainly focused on assessing peoples' exposures at static locations, such as homes or workplaces. There has been a scarcity of research that quantifies the dynamic PM2.5 exposures of people when they travel in cities. To address this gap, we use cellphone positioning data and PM2.5 concentration data collected from smart sensors along roads in Guangzhou, China, to assess personal travel exposure to on-road PM2.5. First, we extract the trips of cellphone users from their trajectories and use the shortest path algorithm to calculate their travel routes on the road network. Second, the travel exposure of each user is estimated by associating their movement patterns with PM2.5 concentrations on roads. The result shows that most users’ average travel exposures per hour fall within the range of 20 ug/m3 to 75 ug/m3. Travel exposure varies across users, and 54.0% of users experience low travel exposure throughout the day, 25.5% of users experience high travel exposure in the evening, and 20.5% of users experience high travel exposure in the afternoon. Furthermore, the impacts of on-road PM2.5 on urban populations are uneven across roads. More attention should be given to roads with high PM2.5 concentrations and traffic flows in each period, such as Huan Shi Middle Road in the morning, Inner Ring Road in the afternoon, and Xinjiao Middle Road in the evening. The findings in this study can contribute to a more in-depth understanding of the relationship between air pollution and the travel activities of urban populations.",
+  "authors": [
+    "Q. Li",
+    "S. Liang",
+    "Y. Xu",
+    "L. Liu",
+    "S. Zhou"
+  ],
+  "authorDetails": [
+    {
+      "name": "Qiuping Li",
+      "citationName": "Q. Li",
+      "orcid": "https://orcid.org/0000-0001-9562-0138"
+    },
+    {
+      "name": "Shen Liang",
+      "citationName": "S. Liang",
+      "orcid": "https://orcid.org/0000-0002-2246-8427",
+      "url": "https://nehsgnail.github.io"
+    },
+    {
+      "name": "Yang Xu",
+      "citationName": "Y. Xu"
+    },
+    {
+      "name": "Lin Liu",
+      "citationName": "L. Liu"
+    },
+    {
+      "name": "Suhong Zhou",
+      "citationName": "S. Zhou",
+      "orcid": "https://orcid.org/0000-0002-1900-0671",
+      "isCorresponding": true
+    }
+  ],
+  "venue": "Health & Place",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "publicationDate": "2022-05",
+  "dateModified": null,
+  "volume": "75",
+  "issue": null,
+  "pages": "102803",
+  "keywords": [
+    "Assessing",
+    "personal",
+    "travel",
+    "exposure",
+    "on-road",
+    "PM2.5",
+    "cellphone",
+    "positioning",
+    "data",
+    "mobile",
+    "sensors",
+    "Health",
+    "Place",
+    "Does",
+    "your",
+    "commute",
+    "hide",
+    "pollution"
+  ],
+  "identifiers": {
+    "doi": "10.1016/j.healthplace.2022.102803",
+    "canonical": "https://nehsgnail.github.io/research/2022-H&P-PM25/"
+  },
+  "links": {
+    "landingPage": "https://nehsgnail.github.io/research/2022-H&P-PM25/",
+    "doi": "https://doi.org/10.1016/j.healthplace.2022.102803",
+    "pdf": "https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf",
+    "project": null,
+    "htmlFullText": "https://nehsgnail.github.io/research/2022-H&P-PM25/html/",
+    "markdownFullText": "https://nehsgnail.github.io/research/2022-H&P-PM25/fulltext.md"
+  },
+  "image": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+  "keyTakeaway": "Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.",
+  "figures": [
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+      "caption": "Daily travel patterns of the uncovered types of users",
+      "alt": "Exposure pattern"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternCurve.jpg",
+      "caption": "Daily exposure curve of the three types of cellphone users",
+      "alt": "Pattern Curve"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/pm25.png",
+      "caption": "Spatial distribution of on-road PM2.5 concentrations during three periods",
+      "alt": "Pattern Distri"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternHigh.png",
+      "caption": "Four types of road (PM2.5 conc. – traffic volume)",
+      "alt": "Pattern High"
+    }
+  ],
+  "citation": {
+    "bibtex": "https://nehsgnail.github.io/research/2022-H&P-PM25/citation.bib",
+    "key": "li2022pm25"
+  },
+  "fullText": {
+    "version": "author-accepted manuscript",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "rightsNotice": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "type": "ScholarlyArticle",
+  "slug": "2025-IJDE-LPA",
+  "title": "Improving next location prediction with inferred activity semantics in mobile phone data",
+  "url": "https://nehsgnail.github.io/research/2025-IJDE-LPA/",
+  "summary": "To predict where someone is headed, do we need to know why? This study shows that giving AI the \"why\" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.",
+  "abstract": "Accurately predicting the next location of mobile phone users is essential for various applications such as personalized location-based services and mobile marketing. While previous models have relied primarily on spatiotemporal sequences (e.g., location and time information), recent research has begun to explore the integration of activity semantics, which provides contextual insights into the motivations behind mobility. However, the use of activity semantics remains underexplored in large-scale mobile phone data, where such semantics are not explicitly recorded. This study proposes a semantics-enhanced prediction framework that infers and integrates user activities into a long short-term memory (LSTM) architecture with attention mechanisms and multimodal embeddings. Specifically, we infer six types of activities: home and work using rule-based heuristics and four non-mandatory activities (shopping, leisure, eat out, and personal affairs) using a supervised machine learning approach. These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model. The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization. Notably, users with more stable daily activity patterns benefit most significantly from the integration of activity semantics. This work highlights the potential of integrating inferred human activity types to enhance mobility prediction in data-rich but semantically sparse environments.",
+  "authors": [
+    "S. Liang",
+    "Q. Li",
+    "L. Zhuo",
+    "D. Zou",
+    "Y. Xu",
+    "S. Zhou"
+  ],
+  "authorDetails": [
+    {
+      "name": "Shen Liang",
+      "citationName": "S. Liang",
+      "orcid": "https://orcid.org/0000-0002-2246-8427",
+      "url": "https://nehsgnail.github.io"
+    },
+    {
+      "name": "Qiuping Li",
+      "citationName": "Q. Li",
+      "isCorresponding": true
+    },
+    {
+      "name": "Li Zhuo",
+      "citationName": "L. Zhuo"
+    },
+    {
+      "name": "Dan Zou",
+      "citationName": "D. Zou"
+    },
+    {
+      "name": "Yang Xu",
+      "citationName": "Y. Xu"
+    },
+    {
+      "name": "Suhong Zhou",
+      "citationName": "S. Zhou"
+    }
+  ],
+  "venue": "International Journal of Digital Earth",
+  "publisher": "Informa UK Limited",
+  "year": 2025,
+  "publicationDate": "2025-09-07",
+  "dateModified": null,
+  "volume": "18",
+  "issue": "2",
+  "pages": "2552880",
+  "keywords": [
+    "Improving",
+    "next",
+    "location",
+    "prediction",
+    "inferred",
+    "activity",
+    "semantics",
+    "mobile",
+    "phone",
+    "data",
+    "International",
+    "Journal",
+    "Digital",
+    "Earth",
+    "predict",
+    "where",
+    "someone",
+    "headed"
+  ],
+  "identifiers": {
+    "doi": "10.1080/17538947.2025.2552880",
+    "canonical": "https://nehsgnail.github.io/research/2025-IJDE-LPA/"
+  },
+  "links": {
+    "landingPage": "https://nehsgnail.github.io/research/2025-IJDE-LPA/",
+    "doi": "https://doi.org/10.1080/17538947.2025.2552880",
+    "pdf": "https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf",
+    "project": "https://github.com/nehSgnaiL/LPA",
+    "htmlFullText": "https://nehsgnail.github.io/research/2025-IJDE-LPA/html/",
+    "markdownFullText": "https://nehsgnail.github.io/research/2025-IJDE-LPA/fulltext.md"
+  },
+  "image": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/tjde_a_2552880_f0003_oc.jpg",
+  "keyTakeaway": "To predict where someone is headed, do we need to know why? This study shows that giving AI the \"why\" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.",
+  "figures": [
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/improvement-by-activity.jpg",
+      "caption": "Diverse but uncertain inferred activities still enhance predictions",
+      "alt": "Takeaway for LPA"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/research-framework.png",
+      "caption": "Research framework",
+      "alt": "Research framework"
+    }
+  ],
+  "citation": {
+    "bibtex": "https://nehsgnail.github.io/research/2025-IJDE-LPA/citation.bib",
+    "key": "liang2025lpa"
+  },
+  "fullText": {
+    "version": "author-accepted manuscript",
+    "license": "CC BY-NC 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "rightsNotice": null
+  }
+}

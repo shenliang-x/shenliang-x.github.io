@@ -1,0 +1,114 @@
+{
+  "type": "ScholarlyArticle",
+  "slug": "2026-TBS-GeoTopoNet",
+  "title": "Predicting short-term urban bike sharing demand in a coupled continuous and network space",
+  "url": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/",
+  "summary": "To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to \"look around\" neighborhoods and \"explore along the road\" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.",
+  "abstract": "Bike sharing systems support sustainable urban development, with accurate demand prediction being essential for efficient operations. Previous studies have primarily modeled spatial dependency of bike sharing demand in Euclidean space or among bike stations, but often overlooked topological dependency of demand shaped by urban transportation networks. Metro and cycling networks could influence bike sharing usage through their functional connections with bike sharing systems. To address this gap, this study proposes GeoTopo-Net, a novel deep learning framework to improve short-term demand forecast for urban bike sharing systems. Different from existing solutions, GeoTopo-Net jointly models dependencies of travel demand in both continuous and network spaces. The model utilizes convolutional neural networks (CNNs) to capture spatial dependency between urban areas and their surroundings, while integrating graph convolutional networks (GCNs) to model the topological dependency introduced by urban transportation networks. Our evaluation across five global cities shows that GeoTopo-Net significantly reduces prediction errors, by up to 8.9% in RMSE, 6.8% in MAE, and 5.9% in MAPE. Incorporating dependencies from metro networks produces notable improvements in high-demand areas and those near the metro stations. These findings highlight the importance of incorporating urban transportation network structures in bike sharing demand forecast. The GeoTopo-Net architecture can also be adapted to improve short-term forecast for different types of travel demand (e.g., ride-hailing; electric vehicle charging demand) that involve complex interdependencies in continuous and network spaces.",
+  "authors": [
+    "S. Liang",
+    "Y. Xu",
+    "G. Li",
+    "X. Zhang",
+    "Q. Li"
+  ],
+  "authorDetails": [
+    {
+      "name": "Shen Liang",
+      "citationName": "S. Liang",
+      "orcid": "https://orcid.org/0000-0002-2246-8427",
+      "url": "https://nehsgnail.github.io"
+    },
+    {
+      "name": "Yang Xu",
+      "citationName": "Y. Xu",
+      "isCorresponding": true
+    },
+    {
+      "name": "Guangyue Li",
+      "citationName": "G. Li"
+    },
+    {
+      "name": "Xiaohu Zhang",
+      "citationName": "X. Zhang"
+    },
+    {
+      "name": "Qiuping Li",
+      "citationName": "Q. Li"
+    }
+  ],
+  "venue": "Travel Behaviour and Society",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "publicationDate": "2026-01",
+  "dateModified": null,
+  "volume": "42",
+  "issue": null,
+  "pages": "101152",
+  "keywords": [
+    "Predicting",
+    "short-term",
+    "urban",
+    "bike",
+    "sharing",
+    "demand",
+    "coupled",
+    "continuous",
+    "network",
+    "space",
+    "Travel",
+    "Behaviour",
+    "Society",
+    "predict",
+    "where",
+    "city",
+    "crowds",
+    "heading"
+  ],
+  "identifiers": {
+    "doi": "10.1016/j.tbs.2025.101152",
+    "canonical": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/"
+  },
+  "links": {
+    "landingPage": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/",
+    "doi": "https://doi.org/10.1016/j.tbs.2025.101152",
+    "pdf": "https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf",
+    "project": null,
+    "htmlFullText": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/html/",
+    "markdownFullText": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/fulltext.md"
+  },
+  "image": "https://repository-images.githubusercontent.com/1075264863/b2f8e4fc-f2c4-416b-8cb3-1a53dd7c07ca",
+  "keyTakeaway": "To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to \"look around\" neighborhoods and \"explore along the road\" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.",
+  "figures": [
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png",
+      "caption": "While the metro network is generally more impactful, combining both is optimal for robust results",
+      "alt": "Takeaway for GeoTopo-Net"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/framework-GeoTopoNet.png",
+      "caption": "(A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure",
+      "alt": "Framework of GeoTopo-Net"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig5.png",
+      "caption": "GeoTopo-Net notably improves prediction accuracy along metro networks and their surrounding areas (red cells)",
+      "alt": "GeoTopo-Net notably improves prediction accuracy"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig6.png",
+      "caption": "Accuracy improvements in grid cells by demand level (blue) and metro station proximity (red). Higher-demand areas and those closer to metro stations experience greater improvements",
+      "alt": "Higher-demand areas and those closer to metro stations experience greater improvements"
+    }
+  ],
+  "citation": {
+    "bibtex": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/citation.bib",
+    "key": "liang2026geotoponet"
+  },
+  "fullText": {
+    "version": "author-accepted manuscript",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "rightsNotice": null
+  }
+}

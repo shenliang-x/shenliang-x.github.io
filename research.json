@@ -1,0 +1,662 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Research publications by Shen Liang",
+  "url": "https://shenliang-x.github.io/research.json",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "@id": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/#article",
+        "headline": "Predicting short-term urban bike sharing demand in a coupled continuous and network space",
+        "name": "Predicting short-term urban bike sharing demand in a coupled continuous and network space",
+        "author": [
+          {
+            "@type": "Person",
+            "@id": "https://nehsgnail.github.io/#person",
+            "name": "Shen Liang",
+            "alternateName": "S. Liang",
+            "url": "https://nehsgnail.github.io",
+            "sameAs": "https://orcid.org/0000-0002-2246-8427"
+          },
+          {
+            "@type": "Person",
+            "name": "Yang Xu",
+            "alternateName": "Y. Xu"
+          },
+          {
+            "@type": "Person",
+            "name": "Guangyue Li",
+            "alternateName": "G. Li"
+          },
+          {
+            "@type": "Person",
+            "name": "Xiaohu Zhang",
+            "alternateName": "X. Zhang"
+          },
+          {
+            "@type": "Person",
+            "name": "Qiuping Li",
+            "alternateName": "Q. Li"
+          }
+        ],
+        "datePublished": "2026-01",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Elsevier BV"
+        },
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "42",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Travel Behaviour and Society"
+          }
+        },
+        "pagination": "101152",
+        "url": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/",
+        "sameAs": [
+          "https://doi.org/10.1016/j.tbs.2025.101152"
+        ],
+        "abstract": "Bike sharing systems support sustainable urban development, with accurate demand prediction being essential for efficient operations. Previous studies have primarily modeled spatial dependency of bike sharing demand in Euclidean space or among bike stations, but often overlooked topological dependency of demand shaped by urban transportation networks. Metro and cycling networks could influence bike sharing usage through their functional connections with bike sharing systems. To address this gap, this study proposes GeoTopo-Net, a novel deep learning framework to improve short-term demand forecast for urban bike sharing systems. Different from existing solutions, GeoTopo-Net jointly models dependencies of travel demand in both continuous and network spaces. The model utilizes convolutional neural networks (CNNs) to capture spatial dependency between urban areas and their surroundings, while integrating graph convolutional networks (GCNs) to model the topological dependency introduced by urban transportation networks. Our evaluation across five global cities shows that GeoTopo-Net significantly reduces prediction errors, by up to 8.9% in RMSE, 6.8% in MAE, and 5.9% in MAPE. Incorporating dependencies from metro networks produces notable improvements in high-demand areas and those near the metro stations. These findings highlight the importance of incorporating urban transportation network structures in bike sharing demand forecast. The GeoTopo-Net architecture can also be adapted to improve short-term forecast for different types of travel demand (e.g., ride-hailing; electric vehicle charging demand) that involve complex interdependencies in continuous and network spaces.",
+        "description": "To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to \"look around\" neighborhoods and \"explore along the road\" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.",
+        "inLanguage": "en",
+        "keywords": [
+          "Predicting",
+          "short-term",
+          "urban",
+          "bike",
+          "sharing",
+          "demand",
+          "coupled",
+          "continuous",
+          "network",
+          "space",
+          "Travel",
+          "Behaviour",
+          "Society",
+          "predict",
+          "where",
+          "city",
+          "crowds",
+          "heading"
+        ],
+        "image": "https://repository-images.githubusercontent.com/1075264863/b2f8e4fc-f2c4-416b-8cb3-1a53dd7c07ca",
+        "thumbnailUrl": "https://repository-images.githubusercontent.com/1075264863/b2f8e4fc-f2c4-416b-8cb3-1a53dd7c07ca",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "DOI",
+          "value": "10.1016/j.tbs.2025.101152"
+        },
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "version": "author-accepted manuscript",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "application/pdf",
+            "contentUrl": "https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "application/x-bibtex",
+            "contentUrl": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/citation.bib"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/html",
+            "contentUrl": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/html/"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/fulltext.md"
+          }
+        ],
+        "associatedMedia": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png",
+            "caption": "While the metro network is generally more impactful, combining both is optimal for robust results",
+            "description": "Takeaway for GeoTopo-Net"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/framework-GeoTopoNet.png",
+            "caption": "(A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure",
+            "description": "Framework of GeoTopo-Net"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig5.png",
+            "caption": "GeoTopo-Net notably improves prediction accuracy along metro networks and their surrounding areas (red cells)",
+            "description": "GeoTopo-Net notably improves prediction accuracy"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig6.png",
+            "caption": "Accuracy improvements in grid cells by demand level (blue) and metro station proximity (red). Higher-demand areas and those closer to metro stations experience greater improvements",
+            "description": "Higher-demand areas and those closer to metro stations experience greater improvements"
+          }
+        ],
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Predicting"
+          },
+          {
+            "@type": "Thing",
+            "name": "short-term"
+          },
+          {
+            "@type": "Thing",
+            "name": "urban"
+          },
+          {
+            "@type": "Thing",
+            "name": "bike"
+          },
+          {
+            "@type": "Thing",
+            "name": "sharing"
+          },
+          {
+            "@type": "Thing",
+            "name": "demand"
+          },
+          {
+            "@type": "Thing",
+            "name": "coupled"
+          },
+          {
+            "@type": "Thing",
+            "name": "continuous"
+          },
+          {
+            "@type": "Thing",
+            "name": "network"
+          },
+          {
+            "@type": "Thing",
+            "name": "space"
+          },
+          {
+            "@type": "Thing",
+            "name": "Travel"
+          },
+          {
+            "@type": "Thing",
+            "name": "Behaviour"
+          },
+          {
+            "@type": "Thing",
+            "name": "Society"
+          },
+          {
+            "@type": "Thing",
+            "name": "predict"
+          },
+          {
+            "@type": "Thing",
+            "name": "where"
+          },
+          {
+            "@type": "Thing",
+            "name": "city"
+          },
+          {
+            "@type": "Thing",
+            "name": "crowds"
+          },
+          {
+            "@type": "Thing",
+            "name": "heading"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "@id": "https://nehsgnail.github.io/research/2025-IJDE-LPA/#article",
+        "headline": "Improving next location prediction with inferred activity semantics in mobile phone data",
+        "name": "Improving next location prediction with inferred activity semantics in mobile phone data",
+        "author": [
+          {
+            "@type": "Person",
+            "@id": "https://nehsgnail.github.io/#person",
+            "name": "Shen Liang",
+            "alternateName": "S. Liang",
+            "url": "https://nehsgnail.github.io",
+            "sameAs": "https://orcid.org/0000-0002-2246-8427"
+          },
+          {
+            "@type": "Person",
+            "name": "Qiuping Li",
+            "alternateName": "Q. Li"
+          },
+          {
+            "@type": "Person",
+            "name": "Li Zhuo",
+            "alternateName": "L. Zhuo"
+          },
+          {
+            "@type": "Person",
+            "name": "Dan Zou",
+            "alternateName": "D. Zou"
+          },
+          {
+            "@type": "Person",
+            "name": "Yang Xu",
+            "alternateName": "Y. Xu"
+          },
+          {
+            "@type": "Person",
+            "name": "Suhong Zhou",
+            "alternateName": "S. Zhou"
+          }
+        ],
+        "datePublished": "2025-09-07",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Informa UK Limited"
+        },
+        "isPartOf": {
+          "@type": "PublicationIssue",
+          "issueNumber": "2",
+          "isPartOf": {
+            "@type": "PublicationVolume",
+            "volumeNumber": "18",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "International Journal of Digital Earth"
+            }
+          }
+        },
+        "pagination": "2552880",
+        "url": "https://nehsgnail.github.io/research/2025-IJDE-LPA/",
+        "sameAs": [
+          "https://doi.org/10.1080/17538947.2025.2552880"
+        ],
+        "abstract": "Accurately predicting the next location of mobile phone users is essential for various applications such as personalized location-based services and mobile marketing. While previous models have relied primarily on spatiotemporal sequences (e.g., location and time information), recent research has begun to explore the integration of activity semantics, which provides contextual insights into the motivations behind mobility. However, the use of activity semantics remains underexplored in large-scale mobile phone data, where such semantics are not explicitly recorded. This study proposes a semantics-enhanced prediction framework that infers and integrates user activities into a long short-term memory (LSTM) architecture with attention mechanisms and multimodal embeddings. Specifically, we infer six types of activities: home and work using rule-based heuristics and four non-mandatory activities (shopping, leisure, eat out, and personal affairs) using a supervised machine learning approach. These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model. The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization. Notably, users with more stable daily activity patterns benefit most significantly from the integration of activity semantics. This work highlights the potential of integrating inferred human activity types to enhance mobility prediction in data-rich but semantically sparse environments.",
+        "description": "To predict where someone is headed, do we need to know why? This study shows that giving AI the \"why\" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.",
+        "inLanguage": "en",
+        "keywords": [
+          "Improving",
+          "next",
+          "location",
+          "prediction",
+          "inferred",
+          "activity",
+          "semantics",
+          "mobile",
+          "phone",
+          "data",
+          "International",
+          "Journal",
+          "Digital",
+          "Earth",
+          "predict",
+          "where",
+          "someone",
+          "headed"
+        ],
+        "image": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/tjde_a_2552880_f0003_oc.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/tjde_a_2552880_f0003_oc.jpg",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "DOI",
+          "value": "10.1080/17538947.2025.2552880"
+        },
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "version": "author-accepted manuscript",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "application/pdf",
+            "contentUrl": "https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "application/x-bibtex",
+            "contentUrl": "https://nehsgnail.github.io/research/2025-IJDE-LPA/citation.bib"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/html",
+            "contentUrl": "https://nehsgnail.github.io/research/2025-IJDE-LPA/html/"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://nehsgnail.github.io/research/2025-IJDE-LPA/fulltext.md"
+          }
+        ],
+        "associatedMedia": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/improvement-by-activity.jpg",
+            "caption": "Diverse but uncertain inferred activities still enhance predictions",
+            "description": "Takeaway for LPA"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/research-framework.png",
+            "caption": "Research framework",
+            "description": "Research framework"
+          }
+        ],
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Improving"
+          },
+          {
+            "@type": "Thing",
+            "name": "next"
+          },
+          {
+            "@type": "Thing",
+            "name": "location"
+          },
+          {
+            "@type": "Thing",
+            "name": "prediction"
+          },
+          {
+            "@type": "Thing",
+            "name": "inferred"
+          },
+          {
+            "@type": "Thing",
+            "name": "activity"
+          },
+          {
+            "@type": "Thing",
+            "name": "semantics"
+          },
+          {
+            "@type": "Thing",
+            "name": "mobile"
+          },
+          {
+            "@type": "Thing",
+            "name": "phone"
+          },
+          {
+            "@type": "Thing",
+            "name": "data"
+          },
+          {
+            "@type": "Thing",
+            "name": "International"
+          },
+          {
+            "@type": "Thing",
+            "name": "Journal"
+          },
+          {
+            "@type": "Thing",
+            "name": "Digital"
+          },
+          {
+            "@type": "Thing",
+            "name": "Earth"
+          },
+          {
+            "@type": "Thing",
+            "name": "predict"
+          },
+          {
+            "@type": "Thing",
+            "name": "where"
+          },
+          {
+            "@type": "Thing",
+            "name": "someone"
+          },
+          {
+            "@type": "Thing",
+            "name": "headed"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://nehsgnail.github.io/research/2025-IJDE-LPA/"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "@id": "https://nehsgnail.github.io/research/2022-H&P-PM25/#article",
+        "headline": "Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors",
+        "name": "Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors",
+        "author": [
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0001-9562-0138",
+            "name": "Qiuping Li",
+            "alternateName": "Q. Li",
+            "url": "https://orcid.org/0000-0001-9562-0138",
+            "sameAs": "https://orcid.org/0000-0001-9562-0138"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://nehsgnail.github.io/#person",
+            "name": "Shen Liang",
+            "alternateName": "S. Liang",
+            "url": "https://nehsgnail.github.io",
+            "sameAs": "https://orcid.org/0000-0002-2246-8427"
+          },
+          {
+            "@type": "Person",
+            "name": "Yang Xu",
+            "alternateName": "Y. Xu"
+          },
+          {
+            "@type": "Person",
+            "name": "Lin Liu",
+            "alternateName": "L. Liu"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0002-1900-0671",
+            "name": "Suhong Zhou",
+            "alternateName": "S. Zhou",
+            "url": "https://orcid.org/0000-0002-1900-0671",
+            "sameAs": "https://orcid.org/0000-0002-1900-0671"
+          }
+        ],
+        "datePublished": "2022-05",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Elsevier BV"
+        },
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "75",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Health & Place"
+          }
+        },
+        "pagination": "102803",
+        "url": "https://nehsgnail.github.io/research/2022-H&P-PM25/",
+        "sameAs": [
+          "https://doi.org/10.1016/j.healthplace.2022.102803"
+        ],
+        "abstract": "PM2.5 pollution imposes substantial health risks on urban residents. Previous studies mainly focused on assessing peoples' exposures at static locations, such as homes or workplaces. There has been a scarcity of research that quantifies the dynamic PM2.5 exposures of people when they travel in cities. To address this gap, we use cellphone positioning data and PM2.5 concentration data collected from smart sensors along roads in Guangzhou, China, to assess personal travel exposure to on-road PM2.5. First, we extract the trips of cellphone users from their trajectories and use the shortest path algorithm to calculate their travel routes on the road network. Second, the travel exposure of each user is estimated by associating their movement patterns with PM2.5 concentrations on roads. The result shows that most users’ average travel exposures per hour fall within the range of 20 ug/m3 to 75 ug/m3. Travel exposure varies across users, and 54.0% of users experience low travel exposure throughout the day, 25.5% of users experience high travel exposure in the evening, and 20.5% of users experience high travel exposure in the afternoon. Furthermore, the impacts of on-road PM2.5 on urban populations are uneven across roads. More attention should be given to roads with high PM2.5 concentrations and traffic flows in each period, such as Huan Shi Middle Road in the morning, Inner Ring Road in the afternoon, and Xinjiao Middle Road in the evening. The findings in this study can contribute to a more in-depth understanding of the relationship between air pollution and the travel activities of urban populations.",
+        "description": "Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.",
+        "inLanguage": "en",
+        "keywords": [
+          "Assessing",
+          "personal",
+          "travel",
+          "exposure",
+          "on-road",
+          "PM2.5",
+          "cellphone",
+          "positioning",
+          "data",
+          "mobile",
+          "sensors",
+          "Health",
+          "Place",
+          "Does",
+          "your",
+          "commute",
+          "hide",
+          "pollution"
+        ],
+        "image": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+        "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "DOI",
+          "value": "10.1016/j.healthplace.2022.102803"
+        },
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "version": "author-accepted manuscript",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "application/pdf",
+            "contentUrl": "https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "application/x-bibtex",
+            "contentUrl": "https://nehsgnail.github.io/research/2022-H&P-PM25/citation.bib"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/html",
+            "contentUrl": "https://nehsgnail.github.io/research/2022-H&P-PM25/html/"
+          },
+          {
+            "@type": "MediaObject",
+            "encodingFormat": "text/markdown",
+            "contentUrl": "https://nehsgnail.github.io/research/2022-H&P-PM25/fulltext.md"
+          }
+        ],
+        "associatedMedia": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+            "caption": "Daily travel patterns of the uncovered types of users",
+            "description": "Exposure pattern"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternCurve.jpg",
+            "caption": "Daily exposure curve of the three types of cellphone users",
+            "description": "Pattern Curve"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/pm25.png",
+            "caption": "Spatial distribution of on-road PM2.5 concentrations during three periods",
+            "description": "Pattern Distri"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternHigh.png",
+            "caption": "Four types of road (PM2.5 conc. – traffic volume)",
+            "description": "Pattern High"
+          }
+        ],
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Assessing"
+          },
+          {
+            "@type": "Thing",
+            "name": "personal"
+          },
+          {
+            "@type": "Thing",
+            "name": "travel"
+          },
+          {
+            "@type": "Thing",
+            "name": "exposure"
+          },
+          {
+            "@type": "Thing",
+            "name": "on-road"
+          },
+          {
+            "@type": "Thing",
+            "name": "PM2.5"
+          },
+          {
+            "@type": "Thing",
+            "name": "cellphone"
+          },
+          {
+            "@type": "Thing",
+            "name": "positioning"
+          },
+          {
+            "@type": "Thing",
+            "name": "data"
+          },
+          {
+            "@type": "Thing",
+            "name": "mobile"
+          },
+          {
+            "@type": "Thing",
+            "name": "sensors"
+          },
+          {
+            "@type": "Thing",
+            "name": "Health"
+          },
+          {
+            "@type": "Thing",
+            "name": "Place"
+          },
+          {
+            "@type": "Thing",
+            "name": "Does"
+          },
+          {
+            "@type": "Thing",
+            "name": "your"
+          },
+          {
+            "@type": "Thing",
+            "name": "commute"
+          },
+          {
+            "@type": "Thing",
+            "name": "hide"
+          },
+          {
+            "@type": "Thing",
+            "name": "pollution"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://nehsgnail.github.io/research/2022-H&P-PM25/"
+        }
+      }
+    }
+  ]
+}
