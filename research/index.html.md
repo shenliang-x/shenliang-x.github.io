@@ -8,7 +8,7 @@ A collection of his recent works.
 
 [](/research/2026-TBS-GeoTopoNet)
 
-### Predicting short-term urban bike sharing demand in a coupled continuous and network space
+### [Predicting short-term urban bike sharing demand in a coupled continuous and network space](/research/2026-TBS-GeoTopoNet)
 
 S. Liang, Y. Xu, G. Li, X. Zhang, Q. Li
 
@@ -18,7 +18,7 @@ To predict where city crowds are heading, is knowing what's nearby enough? This 
 
 [](/research/2025-IJDE-LPA)
 
-### Improving next location prediction with inferred activity semantics in mobile phone data
+### [Improving next location prediction with inferred activity semantics in mobile phone data](/research/2025-IJDE-LPA)
 
 S. Liang, Q. Li, L. Zhuo, D. Zou, Y. Xu, S. Zhou
 
@@ -28,7 +28,7 @@ To predict where someone is headed, do we need to know why? This study shows tha
 
 [](/research/2022-H&P-PM25)
 
-### Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors
+### [Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors](/research/2022-H&P-PM25)
 
 Q. Li, S. Liang, Y. Xu, L. Liu, S. Zhou
 
