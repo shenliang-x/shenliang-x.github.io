@@ -1,6 +1,6 @@
 # Predicting short-term urban bike sharing demand in a coupled continuous and network space - HTML Full Text
 
-> To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to "look around" neighborhoods and "explore along the road" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.
+> Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.
 
 [← Back to Overview](/research/2026-TBS-GeoTopoNet/)
 

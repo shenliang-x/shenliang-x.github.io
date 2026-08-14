@@ -14,7 +14,7 @@ S. Liang, Y. Xu, G. Li, X. Zhang, Q. Li
 
 Travel Behaviour and Society, 2026
 
-To predict where city crowds are heading, is knowing what's nearby enough? This study shows that teaching AI to "look around" neighborhoods and "explore along the road" of transit networks sharpens predictions. Capturing these connections paints a complete picture of how we actually move.
+Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.
 
 [](/research/2025-IJDE-LPA)
 
