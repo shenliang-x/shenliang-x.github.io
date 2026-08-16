@@ -16,7 +16,9 @@
 
 Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.
 
-**Fig. 1.** While the metro network is generally more impactful, combining both is optimal for robust results.
+Warm particles move irregularly through nearby space, converging into or leaving nodes on a generalized Singapore rail network. At those nodes, they become blue and travel through the connected network.
+
+The urban trip field is ready to explore.
 
 ## Abstract
 
@@ -24,7 +26,9 @@ Bike sharing systems support sustainable urban development, with accurate demand
 
 ## Visualization
 
-**Fig. 2.** (A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure.
+**Fig. 1.** (A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure.
+
+**Fig. 2.** Overall performance of GeoTopo-Net with different network integration strategies.
 
 **Fig. 3.** GeoTopo-Net notably improves prediction accuracy along metro networks and their surrounding areas (red cells).
 

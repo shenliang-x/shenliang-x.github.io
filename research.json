@@ -118,15 +118,15 @@
         "associatedMedia": [
           {
             "@type": "ImageObject",
-            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png",
-            "caption": "While the metro network is generally more impactful, combining both is optimal for robust results",
-            "description": "Takeaway for GeoTopo-Net"
-          },
-          {
-            "@type": "ImageObject",
             "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/framework-GeoTopoNet.png",
             "caption": "(A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure",
             "description": "Framework of GeoTopo-Net"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png",
+            "caption": "Overall performance of GeoTopo-Net with different network integration strategies",
+            "description": "GeoTopo-Net with different network integration strategies"
           },
           {
             "@type": "ImageObject",

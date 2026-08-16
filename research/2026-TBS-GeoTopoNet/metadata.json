@@ -81,14 +81,14 @@
   "keyTakeaway": "Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.",
   "figures": [
     {
-      "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png",
-      "caption": "While the metro network is generally more impactful, combining both is optimal for robust results",
-      "alt": "Takeaway for GeoTopo-Net"
-    },
-    {
       "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/framework-GeoTopoNet.png",
       "caption": "(A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure",
       "alt": "Framework of GeoTopo-Net"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png",
+      "caption": "Overall performance of GeoTopo-Net with different network integration strategies",
+      "alt": "GeoTopo-Net with different network integration strategies"
     },
     {
       "url": "https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig5.png",
