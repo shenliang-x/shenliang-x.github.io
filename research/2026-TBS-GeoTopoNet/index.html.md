@@ -16,7 +16,11 @@
 
 Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.
 
+Conceptual flow animationIn continuous spaceIn network space
+
 Warm particles move irregularly through nearby space, converging into or leaving nodes on a generalized Singapore rail network. At those nodes, they become blue and travel through the connected network.
+
+Hover over or tap a particle to highlight related movement. With the keyboard, use the left and right arrow keys to explore trips and Escape to clear the selection.
 
 The urban trip field is ready to explore.
 
