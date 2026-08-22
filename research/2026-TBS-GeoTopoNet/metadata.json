@@ -77,7 +77,7 @@
     "htmlFullText": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/html/",
     "markdownFullText": "https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/fulltext.md"
   },
-  "image": "https://repository-images.githubusercontent.com/1075264863/b2f8e4fc-f2c4-416b-8cb3-1a53dd7c07ca",
+  "image": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2026-TBS-GeoTopoNet/research-card-GeoTopoNet.png",
   "keyTakeaway": "Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.",
   "figures": [
     {
