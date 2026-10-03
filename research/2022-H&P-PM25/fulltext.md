@@ -1,3 +1,34 @@
+# Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors
+
+- Authors: Qiuping Li, Shen Liang, Yang Xu, Lin Liu, Suhong Zhou
+- Journal: Health & Place
+- Publication date: 2022-05
+- Volume: 75
+- Pages or article number: 102803
+- DOI: https://doi.org/10.1016/j.healthplace.2022.102803
+- Canonical research page: https://nehsgnail.github.io/research/2022-H&P-PM25/
+- HTML full text: https://nehsgnail.github.io/research/2022-H&P-PM25/html/
+- BibTeX: https://nehsgnail.github.io/research/2022-H&P-PM25/citation.bib
+- Manuscript version: author-accepted manuscript
+- License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## Citation
+
+```bibtex
+@article{li2022pm25,
+  title = {Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors},
+  author = {Li, Q. and Liang, S. and Xu, Y. and Liu, L. and Zhou, S.},
+  journal = {Health & Place},
+  year = {2022},
+  volume = {75},
+  pages = {102803},
+  doi = {10.1016/j.healthplace.2022.102803},
+  url = {https://doi.org/10.1016/j.healthplace.2022.102803},
+}
+```
+
+---
+
 ## Abstract
 
 PM<sub>2.5</sub> pollution imposes substantial health risks on urban residents. Previous studies mainly focused on assessing peoples’ exposures at static locations, such as homes or workplaces. There has been a scarcity of research that quantifies the dynamic PM<sub>2.5</sub> exposures of people when they travel in cities. To address this gap, we use cellphone positioning data and PM<sub>2.5</sub> concentration data collected from smart sensors along roads in Guangzhou, China, to assess personal travel exposure to on-road PM<sub>2.5</sub>. First, we extract the trips of cellphone users from their trajectories and use the shortest path algorithm to calculate their travel routes on the road network. Second, the travel exposure of each user is estimated by associating their movement patterns with PM<sub>2.5</sub> concentrations on roads. The result shows that most users’ average travel exposures per hour fall within the range of 20 μg/m³ to 75 μg/m³. Travel exposure varies across users, and 54.0% of users experience low travel exposure throughout the day, 25.5% of users experience high travel exposure in the evening, and 20.5% of users experience high travel exposure in the afternoon. Furthermore, the impacts of on-road PM<sub>2.5</sub> on urban populations are uneven across roads. More attention should be given to roads with high PM<sub>2.5</sub> concentrations and traffic flows in each period, such as Huan Shi Middle Road in the morning, Inner Ring Road in the afternoon, and Xinjiao Middle Road in the evening. The findings in this study can contribute to a more in-depth understanding of the relationship between air pollution and the travel activities of urban populations.

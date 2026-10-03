@@ -1,3 +1,36 @@
+# Improving next location prediction with inferred activity semantics in mobile phone data
+
+- Authors: Shen Liang, Qiuping Li, Li Zhuo, Dan Zou, Yang Xu, Suhong Zhou
+- Journal: International Journal of Digital Earth
+- Publication date: 2025-09-07
+- Volume: 18
+- Issue: 2
+- Pages or article number: 2552880
+- DOI: https://doi.org/10.1080/17538947.2025.2552880
+- Canonical research page: https://nehsgnail.github.io/research/2025-IJDE-LPA/
+- HTML full text: https://nehsgnail.github.io/research/2025-IJDE-LPA/html/
+- BibTeX: https://nehsgnail.github.io/research/2025-IJDE-LPA/citation.bib
+- Manuscript version: author-accepted manuscript
+- License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Citation
+
+```bibtex
+@article{liang2025lpa,
+  title = {Improving next location prediction with inferred activity semantics in mobile phone data},
+  author = {Liang, S. and Li, Q. and Zhuo, L. and Zou, D. and Xu, Y. and Zhou, S.},
+  journal = {International Journal of Digital Earth},
+  year = {2025},
+  volume = {18},
+  number = {2},
+  pages = {2552880},
+  doi = {10.1080/17538947.2025.2552880},
+  url = {https://doi.org/10.1080/17538947.2025.2552880},
+}
+```
+
+---
+
 ## Abstract
 
 Accurately predicting the next location of mobile phone users is essential for various applications such as personalized location-based services and mobile marketing. While previous models have relied primarily on spatiotemporal sequences (e.g., location and time information), recent research has begun to explore the integration of activity semantics, which provides contextual insights into the motivations behind mobility. However, the use of activity semantics remains underexplored in large-scale mobile phone data, where such semantics are not explicitly recorded. This study proposes a semantics-enhanced prediction framework that infers and integrates user activities into a long short-term memory (LSTM) architecture with attention mechanisms and multimodal embeddings. Specifically, we infer six types of activities: home and work using rule-based heuristics and four non-mandatory activities (shopping, leisure, eat out, and personal affairs) using a supervised machine learning approach. These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model. The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization. Notably, users with more stable daily activity patterns benefit most significantly from the integration of activity semantics. This work highlights the potential of integrating inferred human activity types to enhance mobility prediction in data-rich but semantically sparse environments.

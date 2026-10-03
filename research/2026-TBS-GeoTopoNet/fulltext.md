@@ -1,3 +1,34 @@
+# Predicting short-term urban bike sharing demand in a coupled continuous and network space
+
+- Authors: Shen Liang, Yang Xu, Guangyue Li, Xiaohu Zhang, Qiuping Li
+- Journal: Travel Behaviour and Society
+- Publication date: 2026-01
+- Volume: 42
+- Pages or article number: 101152
+- DOI: https://doi.org/10.1016/j.tbs.2025.101152
+- Canonical research page: https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/
+- HTML full text: https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/html/
+- BibTeX: https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet/citation.bib
+- Manuscript version: author-accepted manuscript
+- License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## Citation
+
+```bibtex
+@article{liang2026geotoponet,
+  title = {Predicting short-term urban bike sharing demand in a coupled continuous and network space},
+  author = {Liang, S. and Xu, Y. and Li, G. and Zhang, X. and Li, Q.},
+  journal = {Travel Behaviour and Society},
+  year = {2026},
+  volume = {42},
+  pages = {101152},
+  doi = {10.1016/j.tbs.2025.101152},
+  url = {https://doi.org/10.1016/j.tbs.2025.101152},
+}
+```
+
+---
+
 ## Abstract
 
 Bike sharing systems support sustainable urban development, with accurate demand prediction being essential for efficient operations. Previous studies have primarily modeled spatial dependency of bike sharing demand in Euclidean space or among bike stations, but often overlooked topological dependency of demand shaped by urban transportation networks. Metro and cycling networks could influence bike sharing usage through their functional connections with bike sharing systems. To address this gap, this study proposes GeoTopo-Net, a novel deep learning framework to improve short-term demand forecast for urban bike sharing systems. Different from existing solutions, GeoTopo-Net jointly models dependencies of travel demand in both continuous and network spaces. The model utilizes convolutional neural networks (CNNs) to capture spatial dependency between urban areas and their surroundings, while integrating graph convolutional networks (GCNs) to model the topological dependency introduced by urban transportation networks. Our evaluation across five global cities shows that GeoTopo-Net significantly reduces prediction errors, by up to 8.9% in RMSE, 6.8% in MAE, and 5.9% in MAPE. Incorporating dependencies from metro networks produces notable improvements in high-demand areas and those near the metro stations. These findings highlight the importance of incorporating urban transportation network structures in bike sharing demand forecast. The GeoTopo-Net architecture can also be adapted to improve short-term forecast for different types of travel demand (e.g., ride-hailing; electric vehicle charging demand) that involve complex interdependencies in continuous and network spaces.

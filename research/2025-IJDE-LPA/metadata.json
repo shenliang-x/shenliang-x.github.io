@@ -5,6 +5,31 @@
   "url": "https://nehsgnail.github.io/research/2025-IJDE-LPA/",
   "summary": "To predict where someone is headed, do we need to know why? This study shows that giving AI the \"why\" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.",
   "abstract": "Accurately predicting the next location of mobile phone users is essential for various applications such as personalized location-based services and mobile marketing. While previous models have relied primarily on spatiotemporal sequences (e.g., location and time information), recent research has begun to explore the integration of activity semantics, which provides contextual insights into the motivations behind mobility. However, the use of activity semantics remains underexplored in large-scale mobile phone data, where such semantics are not explicitly recorded. This study proposes a semantics-enhanced prediction framework that infers and integrates user activities into a long short-term memory (LSTM) architecture with attention mechanisms and multimodal embeddings. Specifically, we infer six types of activities: home and work using rule-based heuristics and four non-mandatory activities (shopping, leisure, eat out, and personal affairs) using a supervised machine learning approach. These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model. The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization. Notably, users with more stable daily activity patterns benefit most significantly from the integration of activity semantics. This work highlights the potential of integrating inferred human activity types to enhance mobility prediction in data-rich but semantically sparse environments.",
+  "evidence": [
+    {
+      "quote": "The experimental results on mobile phone data from Guangzhou, China, demonstrate that the proposed model improves the prediction accuracy by 4.3–101% compared with baseline models that lack activity-level contextualization.",
+      "precedingText": "These inferred activities are encoded as embeddings and fused with spatiotemporal features within the model.",
+      "source": {
+        "section": "Abstract",
+        "url": "https://nehsgnail.github.io/research/2025-IJDE-LPA/html/#abstract"
+      },
+      "citation": {
+        "title": "Improving next location prediction with inferred activity semantics in mobile phone data",
+        "authors": [
+          "Shen Liang",
+          "Qiuping Li",
+          "Li Zhuo",
+          "Dan Zou",
+          "Yang Xu",
+          "Suhong Zhou"
+        ],
+        "venue": "International Journal of Digital Earth",
+        "year": 2025,
+        "doi": "10.1080/17538947.2025.2552880",
+        "bibtex": "https://nehsgnail.github.io/research/2025-IJDE-LPA/citation.bib"
+      }
+    }
+  ],
   "authors": [
     "S. Liang",
     "Q. Li",
