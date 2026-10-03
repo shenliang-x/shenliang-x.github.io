@@ -2,15 +2,19 @@
 
 > Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.
 
-[← Back to Research](/research)
+Source: <https://shenliang-x.github.io/research/2026-TBS-GeoTopoNet/>
 
-# Predicting short-term urban bike sharing demand in a coupled continuous and network space
+[← Back to Research](<https://shenliang-x.github.io/research>)
 
 **Authors:** S. Liang, Y. Xu, G. Li, X. Zhang, Q. Li
 
 **Published:** Travel Behaviour and Society, 2026, Vol. 42, pp. 101152
 
-[Read online](/research/2026-TBS-GeoTopoNet/html/)[PDF](https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf)[Official publication](https://doi.org/10.1016/j.tbs.2025.101152)
+[Read online](<https://shenliang-x.github.io/research/2026-TBS-GeoTopoNet/html/>)
+
+[PDF](<https://mobility-science-lab.com/assets/2025_TBS_GeoTopoNet-BWnU0tqp.pdf>)
+
+[Official publication](<https://doi.org/10.1016/j.tbs.2025.101152>)
 
 ## Takeaway
 
@@ -30,17 +34,25 @@ Bike sharing systems support sustainable urban development, with accurate demand
 
 ## Visualization
 
+![Framework of GeoTopo-Net](<https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/framework-GeoTopoNet.png>)
+
 **Fig. 1.** (A) Overall design of GeoTopo-Net. In the implementation of the model, two variants of the GeoTopo block are designed: (B) Sequential structure; (C) Parallel structure.
+
+![GeoTopo-Net with different network integration strategies](<https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig3.png>)
 
 **Fig. 2.** Overall performance of GeoTopo-Net with different network integration strategies.
 
+![GeoTopo-Net notably improves prediction accuracy](<https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig5.png>)
+
 **Fig. 3.** GeoTopo-Net notably improves prediction accuracy along metro networks and their surrounding areas (red cells).
+
+![Higher-demand areas and those closer to metro stations experience greater improvements](<https://raw.githubusercontent.com/nehSgnaiL/GeoTopo-Net/refs/heads/main/img/Fig6.png>)
 
 **Fig. 4.** Accuracy improvements in grid cells by demand level (blue) and metro station proximity (red). Higher-demand areas and those closer to metro stations experience greater improvements.
 
 ## Citation
 
-`Liang, S., Xu, Y., Li, G., Zhang, X., & Li, Q. (2026). Predicting short-term urban bike sharing demand in a coupled continuous and network space. *Travel Behaviour and Society*, *42*, 101152. [https://doi.org/10.1016/j.tbs.2025.101152](https://doi.org/10.1016/j.tbs.2025.101152)`
+`Liang, S., Xu, Y., Li, G., Zhang, X., & Li, Q. (2026). Predicting short-term urban bike sharing demand in a coupled continuous and network space. *Travel Behaviour and Society*, *42*, 101152. [https://doi.org/10.1016/j.tbs.2025.101152](<https://doi.org/10.1016/j.tbs.2025.101152>)`
 
 ## Quicksnap
 

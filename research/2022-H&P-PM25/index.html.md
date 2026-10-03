@@ -2,19 +2,25 @@
 
 > Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.
 
-[← Back to Research](/research)
+Source: <https://shenliang-x.github.io/research/2022-H&P-PM25/>
 
-# Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors
+[← Back to Research](<https://shenliang-x.github.io/research>)
 
 **Authors:** Q. Li, S. Liang, Y. Xu, L. Liu, S. Zhou
 
 **Published:** Health & Place, 2022, Vol. 75, pp. 102803
 
-[Read online](/research/2022-H&P-PM25/html/)[PDF](https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf)[Official publication](https://doi.org/10.1016/j.healthplace.2022.102803)
+[Read online](<https://shenliang-x.github.io/research/2022-H&P-PM25/html/>)
+
+[PDF](<https://mobility-science-lab.com/assets/2022_JHAP_Travel_Exposure-Vk9kfT1_.pdf>)
+
+[Official publication](<https://doi.org/10.1016/j.healthplace.2022.102803>)
 
 ## Takeaway
 
 Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.
+
+![Exposure pattern](<https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg>)
 
 **Fig. 1.** Daily travel patterns of the uncovered types of users.
 
@@ -24,15 +30,21 @@ PM2.5 pollution imposes substantial health risks on urban residents. Previous st
 
 ## Visualization
 
+![Pattern Curve](<https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-8.jpg>)
+
 **Fig. 2.** Daily exposure curve of the three types of cellphone users.
 
+![Pattern Distri](<https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-2.jpg>)
+
 **Fig. 3.** Spatial distribution of on-road PM2.5 concentrations during three periods.
+
+![Pattern High](<https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-11.jpg>)
 
 **Fig. 4.** Four types of road (PM2.5 conc. – traffic volume).
 
 ## Citation
 
-`Li, Q., Liang, S., Xu, Y., Liu, L., & Zhou, S. (2022). Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors. *Health & Place*, *75*, 102803. [https://doi.org/10.1016/j.healthplace.2022.102803](https://doi.org/10.1016/j.healthplace.2022.102803)`
+`Li, Q., Liang, S., Xu, Y., Liu, L., & Zhou, S. (2022). Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors. *Health & Place*, *75*, 102803. [https://doi.org/10.1016/j.healthplace.2022.102803](<https://doi.org/10.1016/j.healthplace.2022.102803>)`
 
 ## Quicksnap
 

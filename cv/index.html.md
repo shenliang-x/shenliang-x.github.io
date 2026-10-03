@@ -2,7 +2,9 @@
 
 > Curriculum Vitae of Shen Liang, a PhD student studying human mobility, geospatial AI, and urban informatics at PolyU
 
-# Curriculum Vitae
+Source: <https://shenliang-x.github.io/cv/>
+
+## Curriculum Vitae
 
 ## Education
 
@@ -12,7 +14,7 @@ The Hong Kong Polytechnic University
 
 2024 - Present
 
-Supervisor:[Dr. Yang Xu](https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-yang-xu/)
+Supervisor:[Dr. Yang Xu](<https://www.polyu.edu.hk/lsgs/people/academic-staff/prof-yang-xu/>)
 
 ### M.S. in Cartography and Geographic Information Science
 
@@ -20,7 +22,7 @@ Sun Yat-sen University
 
 2020 - 2023
 
-Supervisor:[Dr. Qiuping Li](https://gp.sysu.edu.cn/teacher/181)
+Supervisor:[Dr. Qiuping Li](<https://gp.sysu.edu.cn/teacher/181>)
 
 ### B.S. in Geographic Information Science
 
@@ -52,10 +54,10 @@ Advisor: Dr. Yang Xu
 
 ## Awards & Honors
 
--   Award for No Award, Himself2025 - Present
+-   Award for No Award, Himself 2025 - Present 
 
 ## Contact
 
 Kindly let him know if anything interesting pops up! 😆
 
-[shen \[dot\] liang \[at\] connect \[dot\] polyu \[dot\] hk](#)
+[shen \[dot\] liang \[at\] connect \[dot\] polyu \[dot\] hk](<https://shenliang-x.github.io/cv/#>)

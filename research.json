@@ -64,24 +64,11 @@
         "description": "Distance tells only half the story of how a city moves. The true pulse of urban mobility is shaped just as much by the underlying transit networks. GeoTopo-Net offers a way to model both dependencies at once, capturing how travel unfolds across places and connections.",
         "inLanguage": "en",
         "keywords": [
-          "Predicting",
-          "short-term",
-          "urban",
-          "bike",
-          "sharing",
-          "demand",
-          "coupled",
-          "continuous",
-          "network",
-          "space",
-          "Travel",
-          "Behaviour",
-          "Society",
-          "Distance",
-          "tells",
-          "only",
-          "half",
-          "story"
+          "Shared mobility",
+          "Bike sharing",
+          "Deep learning",
+          "Urban network",
+          "Demand forecast"
         ],
         "image": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2026-TBS-GeoTopoNet/research-card-GeoTopoNet.png",
         "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2026-TBS-GeoTopoNet/research-card-GeoTopoNet.png",
@@ -144,75 +131,23 @@
         "about": [
           {
             "@type": "Thing",
-            "name": "Predicting"
+            "name": "Shared mobility"
           },
           {
             "@type": "Thing",
-            "name": "short-term"
+            "name": "Bike sharing"
           },
           {
             "@type": "Thing",
-            "name": "urban"
+            "name": "Deep learning"
           },
           {
             "@type": "Thing",
-            "name": "bike"
+            "name": "Urban network"
           },
           {
             "@type": "Thing",
-            "name": "sharing"
-          },
-          {
-            "@type": "Thing",
-            "name": "demand"
-          },
-          {
-            "@type": "Thing",
-            "name": "coupled"
-          },
-          {
-            "@type": "Thing",
-            "name": "continuous"
-          },
-          {
-            "@type": "Thing",
-            "name": "network"
-          },
-          {
-            "@type": "Thing",
-            "name": "space"
-          },
-          {
-            "@type": "Thing",
-            "name": "Travel"
-          },
-          {
-            "@type": "Thing",
-            "name": "Behaviour"
-          },
-          {
-            "@type": "Thing",
-            "name": "Society"
-          },
-          {
-            "@type": "Thing",
-            "name": "Distance"
-          },
-          {
-            "@type": "Thing",
-            "name": "tells"
-          },
-          {
-            "@type": "Thing",
-            "name": "only"
-          },
-          {
-            "@type": "Thing",
-            "name": "half"
-          },
-          {
-            "@type": "Thing",
-            "name": "story"
+            "name": "Demand forecast"
           }
         ],
         "mainEntityOfPage": {
@@ -290,24 +225,11 @@
         "description": "To predict where someone is headed, do we need to know why? This study shows that giving AI the \"why\" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.",
         "inLanguage": "en",
         "keywords": [
-          "Improving",
-          "next",
-          "location",
-          "prediction",
-          "inferred",
-          "activity",
-          "semantics",
-          "mobile",
-          "phone",
-          "data",
-          "International",
-          "Journal",
-          "Digital",
-          "Earth",
-          "predict",
-          "where",
-          "someone",
-          "headed"
+          "Human mobility prediction",
+          "activity semantic inference",
+          "LSTM",
+          "mobile phone data",
+          "multimodal embeddings"
         ],
         "image": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/tjde_a_2552880_f0003_oc.jpg",
         "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/tjde_a_2552880_f0003_oc.jpg",
@@ -358,75 +280,23 @@
         "about": [
           {
             "@type": "Thing",
-            "name": "Improving"
+            "name": "Human mobility prediction"
           },
           {
             "@type": "Thing",
-            "name": "next"
+            "name": "activity semantic inference"
           },
           {
             "@type": "Thing",
-            "name": "location"
+            "name": "LSTM"
           },
           {
             "@type": "Thing",
-            "name": "prediction"
+            "name": "mobile phone data"
           },
           {
             "@type": "Thing",
-            "name": "inferred"
-          },
-          {
-            "@type": "Thing",
-            "name": "activity"
-          },
-          {
-            "@type": "Thing",
-            "name": "semantics"
-          },
-          {
-            "@type": "Thing",
-            "name": "mobile"
-          },
-          {
-            "@type": "Thing",
-            "name": "phone"
-          },
-          {
-            "@type": "Thing",
-            "name": "data"
-          },
-          {
-            "@type": "Thing",
-            "name": "International"
-          },
-          {
-            "@type": "Thing",
-            "name": "Journal"
-          },
-          {
-            "@type": "Thing",
-            "name": "Digital"
-          },
-          {
-            "@type": "Thing",
-            "name": "Earth"
-          },
-          {
-            "@type": "Thing",
-            "name": "predict"
-          },
-          {
-            "@type": "Thing",
-            "name": "where"
-          },
-          {
-            "@type": "Thing",
-            "name": "someone"
-          },
-          {
-            "@type": "Thing",
-            "name": "headed"
+            "name": "multimodal embeddings"
           }
         ],
         "mainEntityOfPage": {
@@ -501,24 +371,10 @@
         "description": "Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.",
         "inLanguage": "en",
         "keywords": [
-          "Assessing",
-          "personal",
-          "travel",
-          "exposure",
-          "on-road",
-          "PM2.5",
-          "cellphone",
-          "positioning",
-          "data",
-          "mobile",
-          "sensors",
-          "Health",
-          "Place",
-          "Does",
-          "your",
-          "commute",
-          "hide",
-          "pollution"
+          "Travel exposure",
+          "On-road PM2.5 concentrations",
+          "Cellphone positioning data",
+          "Mobile sensors"
         ],
         "image": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
         "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
@@ -581,75 +437,19 @@
         "about": [
           {
             "@type": "Thing",
-            "name": "Assessing"
+            "name": "Travel exposure"
           },
           {
             "@type": "Thing",
-            "name": "personal"
+            "name": "On-road PM2.5 concentrations"
           },
           {
             "@type": "Thing",
-            "name": "travel"
+            "name": "Cellphone positioning data"
           },
           {
             "@type": "Thing",
-            "name": "exposure"
-          },
-          {
-            "@type": "Thing",
-            "name": "on-road"
-          },
-          {
-            "@type": "Thing",
-            "name": "PM2.5"
-          },
-          {
-            "@type": "Thing",
-            "name": "cellphone"
-          },
-          {
-            "@type": "Thing",
-            "name": "positioning"
-          },
-          {
-            "@type": "Thing",
-            "name": "data"
-          },
-          {
-            "@type": "Thing",
-            "name": "mobile"
-          },
-          {
-            "@type": "Thing",
-            "name": "sensors"
-          },
-          {
-            "@type": "Thing",
-            "name": "Health"
-          },
-          {
-            "@type": "Thing",
-            "name": "Place"
-          },
-          {
-            "@type": "Thing",
-            "name": "Does"
-          },
-          {
-            "@type": "Thing",
-            "name": "your"
-          },
-          {
-            "@type": "Thing",
-            "name": "commute"
-          },
-          {
-            "@type": "Thing",
-            "name": "hide"
-          },
-          {
-            "@type": "Thing",
-            "name": "pollution"
+            "name": "Mobile sensors"
           }
         ],
         "mainEntityOfPage": {

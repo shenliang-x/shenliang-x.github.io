@@ -2,19 +2,27 @@
 
 > To predict where someone is headed, do we need to know why? This study shows that giving AI the "why" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.
 
-[← Back to Research](/research)
+Source: <https://shenliang-x.github.io/research/2025-IJDE-LPA/>
 
-# Improving next location prediction with inferred activity semantics in mobile phone data
+[← Back to Research](<https://shenliang-x.github.io/research>)
 
 **Authors:** S. Liang, Q. Li, L. Zhuo, D. Zou, Y. Xu, S. Zhou
 
 **Published:** International Journal of Digital Earth, 2025, Vol. 18, Issue 2, pp. 2552880
 
-[Read online](/research/2025-IJDE-LPA/html/)[PDF](https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf)[Official publication](https://doi.org/10.1080/17538947.2025.2552880)[View Project](https://github.com/nehSgnaiL/LPA)
+[Read online](<https://shenliang-x.github.io/research/2025-IJDE-LPA/html/>)
+
+[PDF](<https://mobility-science-lab.com/assets/2025_JIDE_Loc_Prediction-DR6cDcLB.pdf>)
+
+[Official publication](<https://doi.org/10.1080/17538947.2025.2552880>)
+
+[View Project](<https://github.com/nehSgnaiL/LPA>)
 
 ## Takeaway
 
 To predict where someone is headed, do we need to know why? This study shows that giving AI the "why" makes its predictions much sharper. We find that using a diverse mix of activities works better than sticking to a few safe, accurate categories, even if the specific guesses are imperfect.
+
+![Takeaway for LPA](<https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/improvement-by-activity.jpg>)
 
 **Fig. 1.** Diverse but uncertain inferred activities still enhance predictions.
 
@@ -24,11 +32,13 @@ Accurately predicting the next location of mobile phone users is essential for v
 
 ## Visualization
 
+![Research framework](<https://raw.githubusercontent.com/nehSgnaiL/LPA/refs/heads/main/img/research-framework.png>)
+
 **Fig. 2.** Research framework.
 
 ## Citation
 
-`Liang, S., Li, Q., Zhuo, L., Zou, D., Xu, Y., & Zhou, S. (2025). Improving next location prediction with inferred activity semantics in mobile phone data. *International Journal of Digital Earth*, *18*(2), 2552880. [https://doi.org/10.1080/17538947.2025.2552880](https://doi.org/10.1080/17538947.2025.2552880)`
+`Liang, S., Li, Q., Zhuo, L., Zou, D., Xu, Y., & Zhou, S. (2025). Improving next location prediction with inferred activity semantics in mobile phone data. *International Journal of Digital Earth*, *18*(2), 2552880. [https://doi.org/10.1080/17538947.2025.2552880](<https://doi.org/10.1080/17538947.2025.2552880>)`
 
 ## Quicksnap
 

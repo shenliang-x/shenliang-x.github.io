@@ -76,6 +76,7 @@ Figures:
 ### Awesome Scientific Figure
 
 - Repository: https://github.com/nehSgnaiL/awesome-scientific-figure
+- Website: https://nehsgnail.github.io/awesome-scientific-figure/
 - Tags: Paper Reading, Academic Image, Color Scheme
 
 A curated gallery of great scientific visualization practices in research papers
@@ -83,6 +84,7 @@ A curated gallery of great scientific visualization practices in research papers
 ### Smart Paper Recommendation
 
 - Repository: https://github.com/nehSgnaiL/paper-daily-feed
+- Website: https://nehsgnail.github.io/paper-daily-feed/
 - Tags: Smart Recommendation, Knowledge Retrieve, Be on Top of Things, Embedding Similarity
 
 The AI era's paper boom is exhausting to track. Stop endlessly chasing new papers, and let paper-daily-feed curate daily summaries personalized for your vibe!
