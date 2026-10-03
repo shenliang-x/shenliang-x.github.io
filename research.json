@@ -520,8 +520,8 @@
           "hide",
           "pollution"
         ],
-        "image": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
-        "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+        "image": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
         "identifier": {
           "@type": "PropertyValue",
           "propertyID": "DOI",
@@ -555,25 +555,25 @@
         "associatedMedia": [
           {
             "@type": "ImageObject",
-            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
             "caption": "Daily travel patterns of the uncovered types of users",
             "description": "Exposure pattern"
           },
           {
             "@type": "ImageObject",
-            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternCurve.jpg",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-8.jpg",
             "caption": "Daily exposure curve of the three types of cellphone users",
             "description": "Pattern Curve"
           },
           {
             "@type": "ImageObject",
-            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/pm25.png",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-2.jpg",
             "caption": "Spatial distribution of on-road PM2.5 concentrations during three periods",
             "description": "Pattern Distri"
           },
           {
             "@type": "ImageObject",
-            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternHigh.png",
+            "contentUrl": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-11.jpg",
             "caption": "Four types of road (PM2.5 conc. – traffic volume)",
             "description": "Pattern High"
           }

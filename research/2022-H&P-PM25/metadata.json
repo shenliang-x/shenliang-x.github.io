@@ -79,26 +79,26 @@
     "htmlFullText": "https://nehsgnail.github.io/research/2022-H&P-PM25/html/",
     "markdownFullText": "https://nehsgnail.github.io/research/2022-H&P-PM25/fulltext.md"
   },
-  "image": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+  "image": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
   "keyTakeaway": "Does your commute hide a pollution risk? We measure it in Guangzhou by linking city-wide travel data with mobile sensors, and uncover three distinct patterns based on how and when people travel.",
   "figures": [
     {
-      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternMap.png",
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-9.jpg",
       "caption": "Daily travel patterns of the uncovered types of users",
       "alt": "Exposure pattern"
     },
     {
-      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternCurve.jpg",
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-8.jpg",
       "caption": "Daily exposure curve of the three types of cellphone users",
       "alt": "Pattern Curve"
     },
     {
-      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/pm25.png",
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-2.jpg",
       "caption": "Spatial distribution of on-road PM2.5 concentrations during three periods",
       "alt": "Pattern Distri"
     },
     {
-      "url": "https://raw.githubusercontent.com/nehSgnaiL/promoArXiv/refs/heads/main/img/2022-H%26P/patternHigh.png",
+      "url": "https://raw.githubusercontent.com/nehSgnaiL/research-assets-archive/refs/heads/main/2022-H%26P-PM25/figure-11.jpg",
       "caption": "Four types of road (PM2.5 conc. – traffic volume)",
       "alt": "Pattern High"
     }
